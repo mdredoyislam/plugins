@@ -1,0 +1,4045 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gymat Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-15 05:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: gymat-core"
+
+#: demo-importer.php:34
+msgid ""
+" ( If one click demo import does not work please try manual demo import <a "
+"href=\"https://radiustheme.com/demo/wordpress/themes/gymat/docs/#section-4-"
+"2\" target=\"__blank\" style=\"text-decoration:none; color:#1b3452;\">check "
+"documentation</a> )"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:69
+#: elementor/views/bmi-calculator-3.php:58
+#: elementor/views/bmi-calculator.php:53
+msgid ", and weight status is:"
+msgstr ""
+
+#: widget/rt-specific-opening-widget.php:122
+msgid "-"
+msgstr ""
+
+#: post-meta.php:154 post-meta.php:175
+msgid "0px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:20 elementor/widgets/post-grid.php:19
+#: elementor/widgets/rt-class.php:25 elementor/widgets/rt-feature-class.php:25
+#: elementor/widgets/rt-gallery.php:21
+#: elementor/widgets/rt-single-gallery.php:21
+#: elementor/widgets/rt-trainer.php:20
+#: elementor/widgets/woo-product-grid.php:22
+msgid "1 Col"
+msgstr ""
+
+#: post-meta.php:164 post-meta.php:185
+msgid "100px"
+msgstr ""
+
+#: post-meta.php:155 post-meta.php:176
+msgid "10px"
+msgstr ""
+
+#: post-meta.php:165 post-meta.php:186
+msgid "110px"
+msgstr ""
+
+#: post-meta.php:166 post-meta.php:187
+msgid "120px"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:73
+msgid "12:00pm"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:29
+#: elementor/views/bmi-calculator-3.php:29
+#: elementor/views/bmi-calculator.php:29
+msgid "18.5 - 24.9"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:81
+msgid "1:00pm"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:21 elementor/widgets/post-grid.php:20
+#: elementor/widgets/rt-class.php:26 elementor/widgets/rt-feature-class.php:26
+#: elementor/widgets/rt-gallery.php:22
+#: elementor/widgets/rt-single-gallery.php:22
+#: elementor/widgets/rt-trainer.php:21
+#: elementor/widgets/woo-product-grid.php:23
+msgid "2 Col"
+msgstr ""
+
+#: post-meta.php:156 post-meta.php:177
+msgid "20px"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:30
+#: elementor/views/bmi-calculator-3.php:30
+#: elementor/views/bmi-calculator.php:30
+msgid "25 - 29.9"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:22 elementor/widgets/post-grid.php:21
+#: elementor/widgets/rt-class.php:27 elementor/widgets/rt-feature-class.php:27
+#: elementor/widgets/rt-gallery.php:23
+#: elementor/widgets/rt-single-gallery.php:23
+#: elementor/widgets/rt-trainer.php:22
+#: elementor/widgets/woo-product-grid.php:24
+msgid "3 Col"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:31
+#: elementor/views/bmi-calculator-3.php:31
+#: elementor/views/bmi-calculator.php:31
+msgid "30 and Above"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:71
+msgid "30%"
+msgstr ""
+
+#: post-meta.php:157 post-meta.php:178
+msgid "30px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:23 elementor/widgets/post-grid.php:22
+#: elementor/widgets/rt-class.php:28 elementor/widgets/rt-feature-class.php:28
+#: elementor/widgets/rt-gallery.php:24
+#: elementor/widgets/rt-single-gallery.php:24
+#: elementor/widgets/rt-trainer.php:23
+#: elementor/widgets/woo-product-grid.php:25
+msgid "4 Col"
+msgstr ""
+
+#: post-meta.php:158 post-meta.php:179
+msgid "40px"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:78
+msgid "45"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:24
+msgid "5 Col"
+msgstr ""
+
+#: post-meta.php:159 post-meta.php:180
+msgid "50px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:25 elementor/widgets/post-grid.php:23
+#: elementor/widgets/rt-class.php:29 elementor/widgets/rt-feature-class.php:29
+#: elementor/widgets/rt-gallery.php:25
+#: elementor/widgets/rt-single-gallery.php:25
+#: elementor/widgets/rt-trainer.php:24
+#: elementor/widgets/woo-product-grid.php:26
+msgid "6 Col"
+msgstr ""
+
+#: post-meta.php:160 post-meta.php:181
+msgid "60px"
+msgstr ""
+
+#: post-meta.php:161 post-meta.php:182
+msgid "70px"
+msgstr ""
+
+#: post-meta.php:162 post-meta.php:183
+msgid "80px"
+msgstr ""
+
+#: post-meta.php:163 post-meta.php:184
+msgid "90px"
+msgstr ""
+
+#: widget/social-widget.php:88
+msgid "About Company"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:82
+msgid "About Us"
+msgstr ""
+
+#: elementor/widgets/woo-info-box.php:62
+msgid "Accessories"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:338
+msgid "Action Button Style"
+msgstr ""
+
+#: widget/advertisement-widget.php:100
+msgid "Ad Title"
+msgstr ""
+
+#: widget/sidebar-generator.php:40
+msgid "Add"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:96
+msgid "Add Address"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:82
+msgid "Add as many logos as you want"
+msgstr ""
+
+#: elementor/widgets/woo-product-category.php:78
+msgid "Add Category"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:84
+msgid "Add Feature List"
+msgstr ""
+
+#: post-meta.php:359
+msgid "Add New Schedule"
+msgstr ""
+
+#: widget/sidebar-generator.php:31
+msgid "Add New Sidebar"
+msgstr ""
+
+#: post-meta.php:280
+msgid "Add New Skill"
+msgstr ""
+
+#: widget/address-widget.php:83
+msgid "Address"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:55
+msgid "Address Style"
+msgstr ""
+
+#: widget/address-widget.php:13
+msgid "Address Widget"
+msgstr ""
+
+#: widget/advertisement-widget.php:13
+msgid "Advertisement Widget"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:82
+msgid "After Number Text"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:66 elementor/widgets/cta.php:45
+#: elementor/widgets/image.php:57 elementor/widgets/info-box.php:123
+#: elementor/widgets/rt-button.php:43 elementor/widgets/text-with-button.php:47
+#: elementor/widgets/title.php:47
+msgid "Alignment"
+msgstr ""
+
+#: elementor/views/rt-routine.php:101
+msgid "All"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:31 elementor/widgets/rt-class.php:170
+#: elementor/widgets/rt-trainer.php:32 elementor/widgets/testimonial.php:30
+#: elementor/widgets/woo-product-grid.php:33
+#: elementor/widgets/woo-product-slider.php:24
+#: elementor/widgets/woo-single-product.php:24
+msgid "All Categories"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:197
+msgid "All Classes Layout 1"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:198
+msgid "All Classes Layout 2"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:199
+msgid "All Classes Layout 3"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:67
+msgid "All Products"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:72
+msgid "Allow users to change between Calculation Units"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:194 elementor/widgets/post-grid.php:200
+#: elementor/widgets/rt-class.php:454 elementor/widgets/rt-class.php:460
+#: elementor/widgets/rt-trainer.php:318 elementor/widgets/rt-trainer.php:324
+#: elementor/widgets/woo-product-category.php:305
+#: elementor/widgets/woo-product-category.php:311
+#: elementor/widgets/woo-product-slider.php:442
+#: elementor/widgets/woo-product-slider.php:448
+msgid "Animation"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:89
+msgid "Animation Speed"
+msgstr ""
+
+#: widget/sidebar-generator.php:194
+msgid "Are you sure you want to remove this custom sidebar"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:60 elementor/widgets/rt-class.php:182
+#: elementor/widgets/woo-product-slider.php:29
+msgid "Ascending"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:66
+msgid "Author About Text"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:138 elementor/widgets/rt-trainer.php:439
+#: elementor/widgets/rt-upcomming-class.php:196
+#: elementor/widgets/testimonial.php:271
+#: elementor/widgets/woo-product-category.php:94
+#: elementor/widgets/woo-product-slider.php:164
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:214
+msgid "Autoplay Slide Delay"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:222
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:166 elementor/widgets/rt-trainer.php:478
+#: elementor/widgets/rt-upcomming-class.php:230
+#: elementor/widgets/testimonial.php:310
+#: elementor/widgets/woo-product-category.php:133
+msgid "Autoplay speed"
+msgstr ""
+
+#: post-meta.php:217
+msgid "Background Color"
+msgstr ""
+
+#: post-meta.php:216
+msgid "Background Image"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:163
+msgid "Background Shape Display"
+msgstr ""
+
+#: post-meta.php:192
+msgid "Banner"
+msgstr ""
+
+#: post-meta.php:227
+msgid "Banner Background Color"
+msgstr ""
+
+#: post-meta.php:222
+msgid "Banner Background Image"
+msgstr ""
+
+#: post-meta.php:212
+msgid "Banner Background Type"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:129
+msgid "Banner Content Space"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:173
+msgid "Banner Image"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:104
+msgid "Banner Min Height"
+msgstr ""
+
+#: widget/social-widget.php:140
+msgid "Behance Plus URL"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:28
+#: elementor/views/bmi-calculator-3.php:28
+#: elementor/views/bmi-calculator.php:28
+msgid "Below 18.5"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:18
+msgid "Best Deal Product"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:80
+msgid "Best Seller"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:60
+msgid "Blockqoute Text"
+msgstr ""
+
+#: elementor/views/bmi-calculator.php:62 elementor/views/bmi-calculator.php:74
+msgid "BMI"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:164
+msgid "BMI Chart Background"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:174
+msgid "BMI Chart Text"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:149
+msgid "BMI Form Space"
+msgstr ""
+
+#: elementor/views/bmi-calculator.php:74
+msgid "BMR"
+msgstr ""
+
+#: elementor/views/bmi-calculator.php:74
+msgid "Body Mass Index"
+msgstr ""
+
+#: elementor/widgets/image.php:152
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:107
+msgid "Border Right"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:213 elementor/widgets/rt-class.php:473
+#: elementor/widgets/rt-trainer.php:337
+#: elementor/widgets/woo-product-category.php:324
+#: elementor/widgets/woo-product-slider.php:461
+msgid "bounce"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:226 elementor/widgets/rt-class.php:486
+#: elementor/widgets/rt-trainer.php:350
+#: elementor/widgets/woo-product-category.php:337
+#: elementor/widgets/woo-product-slider.php:474
+msgid "bounceIn"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:227 elementor/widgets/rt-class.php:487
+#: elementor/widgets/rt-trainer.php:351
+#: elementor/widgets/woo-product-category.php:338
+#: elementor/widgets/woo-product-slider.php:475
+msgid "bounceInDown"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:228 elementor/widgets/rt-class.php:488
+#: elementor/widgets/rt-trainer.php:352
+#: elementor/widgets/woo-product-category.php:339
+#: elementor/widgets/woo-product-slider.php:476
+msgid "bounceInLeft"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:229 elementor/widgets/rt-class.php:489
+#: elementor/widgets/rt-trainer.php:353
+#: elementor/widgets/woo-product-category.php:340
+#: elementor/widgets/woo-product-slider.php:477
+msgid "bounceInRight"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:230 elementor/widgets/rt-class.php:490
+#: elementor/widgets/rt-trainer.php:354
+#: elementor/widgets/woo-product-category.php:341
+#: elementor/widgets/woo-product-slider.php:478
+msgid "bounceInUp"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:273
+msgid "Box Background"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:498
+msgid "Box Color"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:506
+msgid "Box Padding"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:488
+msgid "Box Style"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:53
+msgid "Boxing"
+msgstr ""
+
+#: post-meta.php:202
+msgid "Breadcrumb"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:175
+#: elementor/widgets/text-with-button.php:108
+msgid "Button"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:33
+msgid "Button 1"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:34
+msgid "Button 2"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:35
+msgid "Button 3"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:136 elementor/widgets/rt-schedule.php:149
+msgid "Button Background Color"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:214 elementor/widgets/rt-schedule.php:167
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: elementor/widgets/cta.php:280
+msgid "Button Color"
+msgstr ""
+
+#: elementor/widgets/info-box.php:187
+#: elementor/widgets/text-with-button.php:113
+#: elementor/widgets/woo-info-box.php:81
+msgid "Button Display"
+msgstr ""
+
+#: elementor/widgets/cta.php:291
+msgid "Button Icon Color"
+msgstr ""
+
+#: elementor/widgets/pricing-switcher.php:70
+#: elementor/widgets/pricing-switcher.php:138
+#: elementor/widgets/rt-class.php:309 elementor/widgets/rt-class.php:332
+#: elementor/widgets/rt-gallery.php:155 elementor/widgets/rt-trainer.php:150
+msgid "Button Link"
+msgstr ""
+
+#: elementor/widgets/info-box.php:197 elementor/widgets/woo-info-box.php:90
+msgid "Button Link (Optional)"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:182
+msgid "Button Spacing"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:31 elementor/widgets/rt-button.php:102
+msgid "Button Style"
+msgstr ""
+
+#: post-meta.php:343 widget/advertisement-widget.php:108
+#: elementor/widgets/cta.php:121 elementor/widgets/info-box.php:204
+#: elementor/widgets/pricing-plan.php:95
+#: elementor/widgets/pricing-switcher.php:62
+#: elementor/widgets/pricing-switcher.php:130
+#: elementor/widgets/rt-banner.php:139
+#: elementor/widgets/rt-bmi-calculator.php:82
+#: elementor/widgets/rt-button.php:85 elementor/widgets/rt-class.php:302
+#: elementor/widgets/rt-class.php:325 elementor/widgets/rt-gallery.php:147
+#: elementor/widgets/rt-trainer.php:142
+#: elementor/widgets/text-with-button.php:123
+#: elementor/widgets/woo-best-deal-product.php:94
+#: elementor/widgets/woo-info-box.php:97
+#: elementor/widgets/woo-product-category.php:61
+msgid "Button Text"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:125 elementor/widgets/rt-schedule.php:158
+msgid "Button Text Color"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:203
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:119
+msgid "Button Typo"
+msgstr ""
+
+#: post-meta.php:348 elementor/widgets/cta.php:127
+#: elementor/widgets/pricing-plan.php:101 elementor/widgets/rt-banner.php:146
+#: elementor/widgets/rt-button.php:91
+#: elementor/widgets/text-with-button.php:130
+#: elementor/widgets/woo-best-deal-product.php:100
+msgid "Button URL"
+msgstr ""
+
+#: widget/advertisement-widget.php:112
+msgid "Button Url"
+msgstr ""
+
+#: elementor/views/post-grid-1.php:87
+msgid "by "
+msgstr ""
+
+#: elementor/widgets/post-grid.php:72
+msgid "By Name"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:83
+msgid "CALCULATE"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:79 elementor/widgets/rt-gallery.php:63
+#: elementor/widgets/rt-trainer.php:66 elementor/widgets/testimonial.php:55
+#: elementor/widgets/woo-product-grid.php:45
+#: elementor/widgets/woo-product-slider.php:57
+msgid "Categories"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:134 elementor/widgets/rt-schedule.php:52
+msgid "Category"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:137
+#: elementor/widgets/woo-product-slider.php:393
+#: elementor/widgets/woo-single-product.php:126
+msgid "Category Color"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:146
+#: elementor/widgets/woo-product-slider.php:402
+#: elementor/widgets/woo-single-product.php:135
+msgid "Category Hover Color"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:88
+#: elementor/widgets/rt-single-gallery.php:92
+#: elementor/widgets/woo-best-deal-product.php:72
+#: elementor/widgets/woo-product-grid.php:60
+#: elementor/widgets/woo-product-slider.php:119
+#: elementor/widgets/woo-single-product.php:70
+msgid "Category Name Display"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:117
+#: elementor/widgets/woo-product-slider.php:373
+#: elementor/widgets/woo-single-product.php:106
+msgid "Category Typo"
+msgstr ""
+
+#: elementor/widgets/info-box.php:55 elementor/widgets/rt-counter.php:50
+#: elementor/widgets/rt-manual-class.php:125 elementor/widgets/title.php:82
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:457
+#: elementor/widgets/rt-upcomming-class.php:209
+#: elementor/widgets/testimonial.php:289
+#: elementor/widgets/woo-product-category.php:112
+msgid "Center Slide"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:182
+msgid "Centered Slides"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:186
+msgid "Centered Slides. Default: Off"
+msgstr ""
+
+#: post-meta.php:402
+msgid "Choose a Icon for your class"
+msgstr ""
+
+#: post-types.php:29 elementor/widgets/rt-manual-class.php:34
+#: elementor/widgets/rt-schedule.php:42
+msgid "Class"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:95
+msgid "Class  Image"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:151 elementor/widgets/rt-schedule.php:69
+msgid "Class Categories"
+msgstr ""
+
+#: post-types.php:59
+msgid "Class Category"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:64
+msgid "Class Content"
+msgstr ""
+
+#: post-meta.php:400
+msgid "Class Icon"
+msgstr ""
+
+#: post-meta.php:395
+msgid "Class Icon image"
+msgstr ""
+
+#: post-meta.php:302
+msgid "Class Info"
+msgstr ""
+
+#: gymat-core.php:141
+msgid "Class Intensity:"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:195 elementor/widgets/rt-manual-class.php:39
+#: elementor/widgets/rt-routine.php:121
+msgid "Class Layout"
+msgstr ""
+
+#: elementor/views/rt-schedule.php:153 elementor/widgets/rt-manual-class.php:51
+msgid "Class Name"
+msgstr ""
+
+#: gymat-core.php:143
+msgid "Class Name:"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:242
+msgid "Class Title Color"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:58
+msgid "Class Title URL (Optional)"
+msgstr ""
+
+#: post-types.php:30
+msgid "Classes"
+msgstr ""
+
+#: post-types.php:60
+msgid "Classes Categories"
+msgstr ""
+
+#: widget/rt-working-hours-widget.php:36
+msgid "Close"
+msgstr ""
+
+#: widget/rt-specific-opening-widget.php:43
+msgid "Closed"
+msgstr ""
+
+#: post-meta.php:338 elementor/widgets/rt-schedule.php:116
+#: elementor/widgets/woo-product-slider.php:352
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:120
+msgid "Colors"
+msgstr ""
+
+#: widget/rt-post-tab.php:49
+msgid "Comment"
+msgstr ""
+
+#: elementor/views/post-grid-1.php:46 elementor/views/post-grid-2.php:46
+#: elementor/views/post-grid-3.php:54
+msgid "Comment: "
+msgstr ""
+
+#: elementor/views/post-grid-1.php:46 elementor/views/post-grid-2.php:46
+#: elementor/views/post-grid-3.php:54
+msgid "Comments: "
+msgstr ""
+
+#: elementor/widgets/contact-info.php:42
+msgid "Contact Info"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:207
+msgid "Contact Info Color"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:200
+msgid "Contact Info Typo"
+msgstr ""
+
+#: post-meta.php:256
+msgid "Contact Shortcode"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:90
+msgid "Contact Title"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:170
+msgid "Contact Title Color"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:164
+msgid "Contact Title Typo"
+msgstr ""
+
+#: elementor/widgets/info-box.php:173 elementor/widgets/rt-banner.php:97
+#: elementor/widgets/rt-bmi-calculator.php:48
+#: elementor/widgets/text-with-button.php:88 elementor/widgets/title.php:137
+#: elementor/widgets/woo-info-box.php:67
+msgid "Content"
+msgstr ""
+
+#: widget/rt-download-widget.php:74
+msgid "content"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:429 elementor/widgets/rt-manual-class.php:228
+msgid "Content Background"
+msgstr ""
+
+#: elementor/widgets/info-box.php:299 elementor/widgets/rt-banner.php:373
+#: elementor/widgets/rt-bmi-calculator.php:134
+#: elementor/widgets/rt-class.php:418 elementor/widgets/rt-manual-class.php:217
+#: elementor/widgets/rt-trainer.php:302
+#: elementor/widgets/rt-upcomming-class.php:395
+#: elementor/widgets/testimonial.php:250
+#: elementor/widgets/text-with-button.php:221 elementor/widgets/title.php:307
+#: elementor/widgets/woo-info-box.php:194
+msgid "Content Color"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:107 elementor/widgets/rt-trainer.php:85
+msgid "Content Display"
+msgstr ""
+
+#: post-meta.php:171
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: post-meta.php:150
+msgid "Content Padding Top"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:383
+#: elementor/widgets/text-with-button.php:233
+msgid "Content Space"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:359
+#: elementor/widgets/woo-best-deal-product.php:110
+#: elementor/widgets/woo-product-slider.php:366
+#: elementor/widgets/woo-single-product.php:99
+msgid "Content Style"
+msgstr ""
+
+#: elementor/widgets/info-box.php:286 elementor/widgets/title.php:293
+#: elementor/widgets/woo-info-box.php:181
+msgid "Content Text"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:524
+msgid "Content Text Color"
+msgstr ""
+
+#: elementor/widgets/info-box.php:293 elementor/widgets/woo-info-box.php:188
+msgid "Content Text Typo"
+msgstr ""
+
+#: elementor/widgets/title.php:300
+msgid "Content Title Style"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:367 elementor/widgets/rt-trainer.php:296
+msgid "Content Typo"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:128
+#: elementor/widgets/testimonial.php:216
+msgid "Content Typro"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:95
+msgid "Content Word count"
+msgstr ""
+
+#: post-meta.php:140
+msgid "Copyright Area"
+msgstr ""
+
+#: widget/address-widget.php:64
+msgid "Corporate Office"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:47
+msgid "Counter Align"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:136
+msgid "Counter Color"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:168
+msgid "Counter Font Size"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:76
+msgid "Counter Number"
+msgstr ""
+
+#: post-meta.php:315
+msgid "Course Duration"
+msgstr ""
+
+#: gymat-core.php:138
+msgid "Course Duration:"
+msgstr ""
+
+#: gymat-core.php:124
+msgid "Course Info"
+msgstr ""
+
+#: post-meta.php:320
+msgid "Course Intensity"
+msgstr ""
+
+#: post-meta.php:305
+msgid "Course Price"
+msgstr ""
+
+#: post-meta.php:310
+msgid "Course Price Unit"
+msgstr ""
+
+#: gymat-core.php:129
+msgid "Course Price:"
+msgstr ""
+
+#: post-meta.php:325
+msgid "Course Video Link"
+msgstr ""
+
+#: elementor/widgets/cta.php:215
+msgid "CTA Padding"
+msgstr ""
+
+#: elementor/widgets/cta.php:33 elementor/widgets/cta.php:230
+msgid "CTA Style"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:190
+msgid "Currency Color"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:75
+msgid "Currency Icon"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:71
+msgid "Custom Order"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:74 elementor/widgets/rt-trainer.php:77
+msgid "Custom Order (Available via Order field inside Page Attributes box)"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:178
+msgid "Custom Order (Available via Order field inside Post Attributes box)"
+msgstr ""
+
+#: post-meta.php:51
+msgid "Custom Sidebar"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:176 elementor/widgets/rt-gallery.php:72
+#: elementor/widgets/rt-trainer.php:75 elementor/widgets/testimonial.php:64
+msgid "Date (Recents comes first)"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:88
+msgid "Date-Time"
+msgstr ""
+
+#: widget/rt-specific-opening-widget.php:93
+msgid "Days"
+msgstr ""
+
+#: post-meta.php:28 post-meta.php:29 post-meta.php:43 post-meta.php:66
+#: post-meta.php:76 post-meta.php:86 post-meta.php:98 post-meta.php:108
+#: post-meta.php:121 post-meta.php:133 post-meta.php:143 post-meta.php:153
+#: post-meta.php:174 post-meta.php:195 post-meta.php:205 post-meta.php:215
+#: post-meta.php:440
+msgid "Default"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:62
+msgid "Default Calculation Unit"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:242 elementor/widgets/rt-class.php:502
+#: elementor/widgets/rt-trainer.php:367
+#: elementor/widgets/woo-product-category.php:353
+#: elementor/widgets/woo-product-slider.php:490
+msgid "Delay"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:183
+#: elementor/widgets/woo-product-slider.php:30
+msgid "Descending"
+msgstr ""
+
+#: widget/address-widget.php:79 widget/social-widget.php:108
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:59
+msgid "Desecending"
+msgstr ""
+
+#: post-meta.php:252 post-meta.php:433
+#: elementor/widgets/about-image-text.php:53
+msgid "Designation"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:253 elementor/widgets/testimonial.php:241
+msgid "Designation Color"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:103 elementor/widgets/testimonial.php:86
+msgid "Designation Display"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:247
+msgid "Designation Typo"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:209
+msgid "Designation Typro"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:216 elementor/widgets/rt-trainer.php:530
+#: elementor/widgets/rt-upcomming-class.php:282
+#: elementor/widgets/testimonial.php:360
+#: elementor/widgets/woo-product-category.php:183
+#: elementor/widgets/woo-product-slider.php:254
+msgid "Desktop items"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:265 elementor/widgets/rt-class.php:347
+#: elementor/widgets/rt-gallery.php:211 elementor/widgets/rt-trainer.php:392
+#: elementor/widgets/woo-product-grid.php:119
+msgid "Desktops: > 1199px"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:355 elementor/widgets/rt-gallery.php:219
+#: elementor/widgets/rt-trainer.php:400
+#: elementor/widgets/woo-product-grid.php:127
+msgid "Desktops: > 767px"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:272
+msgid "Desktops: > 991px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:99
+msgid "Desktops: > 992px"
+msgstr ""
+
+#: post-meta.php:197 post-meta.php:207 elementor/widgets/logo-slider.php:76
+msgid "Disable"
+msgstr ""
+
+#: post-meta.php:68 post-meta.php:78 post-meta.php:100 post-meta.php:135
+#: post-meta.php:145
+msgid "Disabled"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:70
+msgid "Discount Percentage"
+msgstr ""
+
+#: widget/rt-feature-post.php:196 widget/rt-post-box.php:220
+#: widget/rt-post-tab.php:298
+msgid "Display"
+msgstr ""
+
+#: elementor/widgets/rt-schedule.php:80
+msgid "Display Button"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:88
+msgid "Display Flex"
+msgstr ""
+
+#: widget/rt-feature-post.php:191 widget/rt-post-box.php:208
+#: widget/rt-post-tab.php:284 widget/rt-recent-post-widget.php:108
+msgid "Display post category?"
+msgstr ""
+
+#: widget/rt-feature-post.php:188 widget/rt-post-box.php:205
+#: widget/rt-post-tab.php:281 widget/rt-recent-post-widget.php:105
+msgid "Display post date?"
+msgstr ""
+
+#: widget/rt-specific-opening-widget.php:11
+msgid "Display the specific opening hours"
+msgstr ""
+
+#: widget/rt-working-hours-widget.php:11
+msgid "Display working hours"
+msgstr ""
+
+#: widget/rt-download-widget.php:82
+msgid "Download URL"
+msgstr ""
+
+#: widget/social-widget.php:144
+msgid "Dribbble Plus URL"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:249 elementor/widgets/pricing-plan.php:88
+#: elementor/widgets/pricing-switcher.php:47
+#: elementor/widgets/pricing-switcher.php:115
+#: elementor/widgets/rt-class.php:509 elementor/widgets/rt-trainer.php:374
+#: elementor/widgets/woo-product-category.php:360
+#: elementor/widgets/woo-product-slider.php:497
+msgid "Duration"
+msgstr ""
+
+#: elementor/widgets/pricing-switcher.php:284
+msgid "Duration Color"
+msgstr ""
+
+#: post-meta.php:290
+msgid "eg. 75"
+msgstr ""
+
+#: post-meta.php:285
+msgid "eg. Yoga"
+msgstr ""
+
+#: widget/address-widget.php:91
+msgid "Email"
+msgstr ""
+
+#: widget/sidebar-generator.php:69 widget/sidebar-generator.php:116
+msgid "Empty nonce"
+msgstr ""
+
+#: post-meta.php:196 post-meta.php:206 elementor/widgets/logo-slider.php:75
+msgid "Enable"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:168
+msgid "Enable or disable autoplay. Default: On"
+msgstr ""
+
+#: post-meta.php:67 post-meta.php:77 post-meta.php:99 post-meta.php:134
+#: post-meta.php:144
+msgid "Enabled"
+msgstr ""
+
+#: post-meta.php:386 elementor/widgets/rt-manual-class.php:79
+msgid "End Time"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:89
+msgid "Enter a future date-time"
+msgstr ""
+
+#: post-meta.php:345
+msgid "Enter button text eg. Join Now!"
+msgstr ""
+
+#: post-meta.php:350
+msgid "Enter button url"
+msgstr ""
+
+#: post-meta.php:267
+msgid "Enter your social links here"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:210 elementor/widgets/rt-class.php:470
+#: elementor/widgets/rt-trainer.php:334
+#: elementor/widgets/woo-product-category.php:321
+#: elementor/widgets/woo-product-slider.php:458
+msgid "Entrance Animation"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:70
+#: elementor/views/bmi-calculator-3.php:59
+#: elementor/views/bmi-calculator.php:54
+msgid "Error: All field values must be a number"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:70
+#: elementor/views/bmi-calculator-3.php:59
+#: elementor/views/bmi-calculator.php:54
+msgid "Error: One or more fields are empty"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:96
+#: elementor/widgets/rt-single-gallery.php:100
+msgid "Excerpt/Content Display"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:247
+#: elementor/widgets/rt-upcomming-class.php:129
+msgid "Excpert Limit"
+msgstr ""
+
+#: module/rt-post-share.php:20
+msgid "Facebook"
+msgstr ""
+
+#: widget/social-widget.php:112 elementor/widgets/contact-info.php:103
+msgid "Facebook URL"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:221 elementor/widgets/rt-class.php:481
+#: elementor/widgets/rt-trainer.php:345
+#: elementor/widgets/woo-product-category.php:332
+#: elementor/widgets/woo-product-slider.php:469
+msgid "fadeIn"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:222 elementor/widgets/rt-class.php:482
+#: elementor/widgets/rt-trainer.php:346
+#: elementor/widgets/woo-product-category.php:333
+#: elementor/widgets/woo-product-slider.php:470
+msgid "fadeInDown"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:223 elementor/widgets/rt-class.php:483
+#: elementor/widgets/rt-trainer.php:347
+#: elementor/widgets/woo-product-category.php:334
+#: elementor/widgets/woo-product-slider.php:471
+msgid "fadeInLeft"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:224 elementor/widgets/rt-class.php:484
+#: elementor/widgets/rt-trainer.php:348
+#: elementor/widgets/woo-product-category.php:335
+#: elementor/widgets/woo-product-slider.php:472
+msgid "fadeInRight"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:225 elementor/widgets/rt-class.php:485
+#: elementor/widgets/rt-trainer.php:349
+#: elementor/widgets/woo-product-category.php:336
+#: elementor/widgets/woo-product-slider.php:473
+msgid "fadeInUp"
+msgstr ""
+
+#: widget/address-widget.php:95
+msgid "Fax"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:30
+msgid "Feature Content"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:228
+#: elementor/widgets/pricing-switcher.php:318
+msgid "Feature List Icon Color"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:455
+msgid "Feature List Style"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:218
+#: elementor/widgets/pricing-switcher.php:309
+#: elementor/widgets/rt-banner.php:473
+msgid "Feature List Text Color"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:212
+#: elementor/widgets/pricing-switcher.php:303
+msgid "Feature List Typography"
+msgstr ""
+
+#: widget/rt-feature-post.php:10
+msgid "Feature Post Display Widget"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:68
+msgid "Featured Product"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:65
+msgid "Filter Product"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:65
+msgid "Find Your Energy"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:214 elementor/widgets/rt-class.php:474
+#: elementor/widgets/rt-trainer.php:338
+#: elementor/widgets/woo-product-category.php:325
+#: elementor/widgets/woo-product-slider.php:462
+msgid "flash"
+msgstr ""
+
+#: post-meta.php:130
+msgid "Footer Area"
+msgstr ""
+
+#: post-meta.php:118
+msgid "Footer Layout"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:54
+msgid "Founder"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:47
+msgid "Founder Name"
+msgstr ""
+
+#: elementor/widgets/info-box.php:168
+msgid "Free Fitness Training"
+msgstr ""
+
+#: elementor/widgets/woo-product-category.php:55
+msgid "Free Shipping & Save Up To 15%"
+msgstr ""
+
+#: elementor/views/rt-routine.php:14
+msgid "FRI"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:39
+msgid "Fri"
+msgstr ""
+
+#: post-meta.php:376 widget/rt-class-widget.php:39
+#: widget/rt-specific-opening-widget.php:21 elementor/views/rt-routine-2.php:14
+#: elementor/views/rt-schedule-2.php:18 elementor/views/rt-schedule.php:19
+#: elementor/widgets/rt-class.php:45 elementor/widgets/rt-class.php:115
+msgid "Friday"
+msgstr ""
+
+#: widget/rt-specific-opening-widget.php:94
+msgid "From"
+msgstr ""
+
+#: elementor/widgets/info-box.php:337 elementor/widgets/woo-info-box.php:229
+msgid "Full Icon Box"
+msgstr ""
+
+#: post-meta.php:44
+msgid "Full Width"
+msgstr ""
+
+#: post-types.php:44
+msgid "Galleries"
+msgstr ""
+
+#: post-meta.php:419 post-types.php:43
+msgid "Gallery"
+msgstr ""
+
+#: post-types.php:72
+msgid "Gallery Categories"
+msgstr ""
+
+#: post-types.php:71
+msgid "Gallery Category"
+msgstr ""
+
+#: post-meta.php:416
+msgid "Gallery Info"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:30
+#: elementor/widgets/contact-info.php:50 elementor/widgets/cta.php:28
+#: elementor/widgets/image.php:34 elementor/widgets/info-box.php:29
+#: elementor/widgets/logo-slider.php:58 elementor/widgets/post-grid.php:40
+#: elementor/widgets/pricing-plan.php:47
+#: elementor/widgets/pricing-switcher.php:165
+#: elementor/widgets/rt-banner.php:39
+#: elementor/widgets/rt-bmi-calculator.php:26
+#: elementor/widgets/rt-button.php:26 elementor/widgets/rt-class.php:190
+#: elementor/widgets/rt-counter.php:31
+#: elementor/widgets/rt-feature-class.php:40
+#: elementor/widgets/rt-gallery.php:51 elementor/widgets/rt-routine.php:116
+#: elementor/widgets/rt-schedule.php:34
+#: elementor/widgets/rt-single-gallery.php:49
+#: elementor/widgets/rt-trainer.php:42
+#: elementor/widgets/rt-upcomming-class.php:114
+#: elementor/widgets/testimonial.php:38
+#: elementor/widgets/text-with-button.php:31 elementor/widgets/video.php:35
+#: elementor/widgets/woo-info-box.php:29
+#: elementor/widgets/woo-product-category.php:71
+msgid "General"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:191
+msgid "Gym Text position"
+msgstr ""
+
+#: widget/social-widget.php:16
+msgid "Gymat : (For Footer) Social Link widget with Description"
+msgstr ""
+
+#. Base ID
+#: widget/address-widget.php:12
+msgid "Gymat : Address"
+msgstr ""
+
+#. Base ID
+#: widget/advertisement-widget.php:12
+msgid "Gymat : Advertisement"
+msgstr ""
+
+#: widget/rt-class-widget.php:14
+msgid "Gymat : Class Display"
+msgstr ""
+
+#: widget/rt-feature-post.php:13
+msgid "Gymat : Feature Posts display"
+msgstr ""
+
+#: widget/rt-post-box.php:13
+msgid "Gymat : Posts display Box"
+msgstr ""
+
+#: widget/rt-post-tab.php:13
+msgid "Gymat : Posts display Tab"
+msgstr ""
+
+#: widget/rt-recent-post-widget.php:13
+msgid "Gymat : Recent Posts"
+msgstr ""
+
+#: widget/social-widget.php:19
+msgid "Gymat : Social Widget"
+msgstr ""
+
+#: widget/rt-specific-opening-widget.php:14
+msgid "Gymat : Specfic Day Opening Hours"
+msgstr ""
+
+#: widget/rt-working-hours-widget.php:14
+msgid "Gymat : Working Hours"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:67
+msgid ""
+"Gymat an unknown printer took a galley of type and scr arsry mbled it to "
+"make a type specimen book. It has survived notte only five centuries, but "
+"also the leap into electronic types ear tting rey emaining essentially "
+"unchanged. It was popularised in the 1960s with the release of Letraset."
+msgstr ""
+
+#. Name of the plugin
+msgid "Gymat Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "Gymat Core Plugin for Gymat Theme"
+msgstr ""
+
+#: elementor/init.php:132
+msgid "Gymat Icon"
+msgstr ""
+
+#. Base ID
+#: widget/rt-download-widget.php:12
+msgid "Gymat: Download"
+msgstr ""
+
+#: widget/rt-download-widget.php:13
+msgid "Gymat: Download Widget"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:98
+msgid ""
+"Gymhen an unknown printer took a galley of type and scrambled.It has "
+"survived nknown printercenturies."
+msgstr ""
+
+#: post-meta.php:105
+msgid "Header Layout"
+msgstr ""
+
+#: post-meta.php:95
+msgid "Header On/Off"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:219 elementor/widgets/rt-class.php:479
+#: elementor/widgets/rt-trainer.php:343
+#: elementor/widgets/woo-product-category.php:330
+#: elementor/widgets/woo-product-slider.php:467
+msgid "headShake"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:53
+#: elementor/views/bmi-calculator-3.php:52
+#: elementor/views/bmi-calculator.php:47
+msgid "Height / cm"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:60
+#: elementor/views/bmi-calculator-3.php:54
+#: elementor/views/bmi-calculator.php:49
+msgid "Height / feet"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:63
+#: elementor/views/bmi-calculator-3.php:55
+#: elementor/views/bmi-calculator.php:50
+msgid "Height / inch"
+msgstr ""
+
+#: widget/rt-feature-post.php:180 widget/rt-feature-post.php:197
+#: widget/rt-post-box.php:197 widget/rt-post-box.php:221
+#: widget/rt-post-tab.php:273 widget/rt-post-tab.php:299
+#: elementor/widgets/post-grid.php:109 elementor/widgets/post-grid.php:142
+#: elementor/widgets/post-grid.php:150 elementor/widgets/post-grid.php:158
+#: elementor/widgets/post-grid.php:166 elementor/widgets/post-grid.php:174
+#: elementor/widgets/post-grid.php:182 elementor/widgets/rt-gallery.php:90
+#: elementor/widgets/rt-gallery.php:98 elementor/widgets/rt-gallery.php:114
+#: elementor/widgets/rt-single-gallery.php:94
+#: elementor/widgets/rt-single-gallery.php:102
+#: elementor/widgets/rt-single-gallery.php:118
+msgid "Hide"
+msgstr ""
+
+#: widget/rt-working-hours-widget.php:89
+msgid "Holiday:"
+msgstr ""
+
+#: demo-importer.php:42
+msgid "Home 1"
+msgstr ""
+
+#: demo-importer.php:47
+msgid "Home 2"
+msgstr ""
+
+#: demo-importer.php:52
+msgid "Home 3"
+msgstr ""
+
+#: demo-importer.php:57
+msgid "Home 4"
+msgstr ""
+
+#: demo-importer.php:62
+msgid "Home 5"
+msgstr ""
+
+#: elementor/widgets/info-box.php:424 elementor/widgets/rt-button.php:198
+#: elementor/widgets/woo-info-box.php:316
+msgid "Hover"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.radiustheme.com"
+msgstr ""
+
+#: elementor/widgets/cta.php:73 elementor/widgets/info-box.php:68
+#: elementor/widgets/pricing-plan.php:38
+#: elementor/widgets/pricing-switcher.php:77
+#: elementor/widgets/pricing-switcher.php:145
+#: elementor/widgets/rt-button.php:66 elementor/widgets/rt-counter.php:58
+#: elementor/widgets/rt-manual-class.php:115
+#: elementor/widgets/rt-manual-class.php:138 elementor/widgets/title.php:95
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:189 elementor/widgets/rt-class.php:440
+#: elementor/widgets/rt-manual-class.php:239 elementor/widgets/video.php:146
+msgid "Icon Background"
+msgstr ""
+
+#: elementor/widgets/info-box.php:398 elementor/widgets/info-box.php:441
+#: elementor/widgets/woo-info-box.php:290
+#: elementor/widgets/woo-info-box.php:333
+msgid "Icon Box Color"
+msgstr ""
+
+#: elementor/widgets/info-box.php:356 elementor/widgets/woo-info-box.php:248
+msgid "Icon Box Height"
+msgstr ""
+
+#: elementor/widgets/info-box.php:345 elementor/widgets/woo-info-box.php:237
+msgid "Icon Box Width"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:179 elementor/widgets/cta.php:270
+#: elementor/widgets/info-box.php:376 elementor/widgets/info-box.php:429
+#: elementor/widgets/info-box.php:479 elementor/widgets/rt-button.php:147
+#: elementor/widgets/rt-counter.php:146
+#: elementor/widgets/rt-feature-class.php:150
+#: elementor/widgets/rt-manual-class.php:249 elementor/widgets/title.php:330
+#: elementor/widgets/video.php:156 elementor/widgets/woo-info-box.php:268
+#: elementor/widgets/woo-info-box.php:321
+#: elementor/widgets/woo-info-box.php:371
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:261 elementor/widgets/rt-feature-class.php:67
+#: elementor/widgets/rt-manual-class.php:166
+msgid "Icon Display"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:225
+#: elementor/widgets/rt-feature-class.php:159
+#: elementor/widgets/rt-manual-class.php:259
+msgid "Icon Hover Color"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:77
+msgid "Icon Left"
+msgstr ""
+
+#: elementor/widgets/info-box.php:96 elementor/widgets/rt-button.php:75
+msgid "Icon Position"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:78
+msgid "Icon Right"
+msgstr ""
+
+#: elementor/widgets/info-box.php:388 elementor/widgets/woo-info-box.php:280
+msgid "Icon Shape Color"
+msgstr ""
+
+#: elementor/widgets/info-box.php:367 elementor/widgets/info-box.php:468
+#: elementor/widgets/rt-counter.php:179
+#: elementor/widgets/rt-feature-class.php:123 elementor/widgets/video.php:136
+#: elementor/widgets/woo-info-box.php:259
+#: elementor/widgets/woo-info-box.php:360
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/title.php:340
+msgid "Icon Space"
+msgstr ""
+
+#: elementor/widgets/info-box.php:409 elementor/widgets/woo-info-box.php:301
+msgid "Icon Spaceing"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:166
+msgid "Icon Spacing"
+msgstr ""
+
+#: elementor/widgets/info-box.php:319 elementor/widgets/info-box.php:461
+#: elementor/widgets/title.php:324 elementor/widgets/woo-info-box.php:211
+#: elementor/widgets/woo-info-box.php:353
+msgid "Icon Style"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:159
+msgid "Icon Typo"
+msgstr ""
+
+#: elementor/widgets/pricing-switcher.php:78
+msgid "Icon use only for layout 1"
+msgstr ""
+
+#: post-meta.php:224 post-meta.php:229 post-meta.php:234 post-meta.php:239
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:72 elementor/widgets/cta.php:105
+#: elementor/widgets/image.php:100 elementor/widgets/info-box.php:78
+#: elementor/widgets/logo-slider.php:42 elementor/widgets/pricing-plan.php:107
+#: elementor/widgets/pricing-switcher.php:86
+#: elementor/widgets/pricing-switcher.php:153
+#: elementor/widgets/rt-manual-class.php:148
+#: elementor/widgets/testimonial.php:175 elementor/widgets/title.php:105
+msgid "Image"
+msgstr ""
+
+#: elementor/widgets/image.php:165
+msgid "Image Animation"
+msgstr ""
+
+#: elementor/widgets/cta.php:174
+msgid "Image Box Shape 1 Position"
+msgstr ""
+
+#: elementor/widgets/cta.php:194
+msgid "Image Box Shape 2 Position"
+msgstr ""
+
+#: elementor/widgets/cta.php:153
+msgid "Image Box Width"
+msgstr ""
+
+#: elementor/widgets/video.php:50
+msgid "Image Overlay Color"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:217
+msgid "Image Position"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:225
+msgid "Image position 1"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:247
+msgid "Image position 2"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:87 elementor/widgets/cta.php:112
+#: elementor/widgets/image.php:110 elementor/widgets/image.php:137
+#: elementor/widgets/info-box.php:88 elementor/widgets/pricing-plan.php:117
+#: elementor/widgets/rt-banner.php:183
+#: elementor/widgets/rt-manual-class.php:105
+#: elementor/widgets/rt-manual-class.php:158
+#: elementor/widgets/testimonial.php:184 elementor/widgets/title.php:115
+#: elementor/widgets/video.php:94 elementor/widgets/woo-info-box.php:44
+msgid "image size"
+msgstr ""
+
+#: elementor/widgets/image.php:39
+msgid "Image Style"
+msgstr ""
+
+#: elementor/widgets/pricing-switcher.php:87
+#: elementor/widgets/pricing-switcher.php:154
+msgid "Image use only for layout 2"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:65
+msgid "Imperial"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:20
+#: elementor/views/bmi-calculator-3.php:20
+#: elementor/views/bmi-calculator.php:20
+msgid "Imperial Units"
+msgstr ""
+
+#: elementor/widgets/info-box.php:224
+msgid "Info Box Border"
+msgstr ""
+
+#: elementor/widgets/info-box.php:154
+msgid "Info box border right"
+msgstr ""
+
+#: elementor/widgets/info-box.php:212
+msgid "Info Box Padding"
+msgstr ""
+
+#: widget/social-widget.php:136
+msgid "Instagram URL"
+msgstr ""
+
+#: demo-importer.php:26
+msgid "Install Demo Contents"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:125
+msgid "Instragram URL"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:199 elementor/widgets/rt-trainer.php:512
+#: elementor/widgets/rt-upcomming-class.php:264
+#: elementor/widgets/testimonial.php:343
+#: elementor/widgets/woo-product-category.php:166
+msgid "Inter slider spacing"
+msgstr ""
+
+#: widget/sidebar-generator.php:72 widget/sidebar-generator.php:119
+msgid "Invalid nonce"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:222
+msgid "Item Background Color"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:182
+#: elementor/widgets/rt-single-gallery.php:152
+msgid "Item Category Color"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:191
+#: elementor/widgets/rt-single-gallery.php:161
+msgid "Item Content Color"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:93
+msgid "Item Limit"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:173
+#: elementor/widgets/rt-single-gallery.php:143
+msgid "Item Title Color"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:394
+#: elementor/widgets/rt-feature-class.php:110
+#: elementor/widgets/rt-gallery.php:121
+#: elementor/widgets/rt-manual-class.php:189
+#: elementor/widgets/rt-single-gallery.php:125
+#: elementor/widgets/rt-upcomming-class.php:360
+msgid "Item Title Typo"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:270
+msgid "Join Now Button"
+msgstr ""
+
+#: elementor/widgets/cta.php:122
+msgid "Join Our Team"
+msgstr ""
+
+#: elementor/widgets/rt-schedule.php:140
+msgid "Label Background Color"
+msgstr ""
+
+#: elementor/widgets/rt-schedule.php:131
+msgid "Label Sub Title Color"
+msgstr ""
+
+#: elementor/widgets/rt-schedule.php:122
+msgid "Label Title Color"
+msgstr ""
+
+#: elementor/widgets/rt-schedule.php:107
+msgid "Label Title Typo"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:270
+msgid "Laptop items"
+msgstr ""
+
+#: post-meta.php:40 elementor/widgets/post-grid.php:45
+#: elementor/widgets/pricing-plan.php:52
+#: elementor/widgets/pricing-switcher.php:170
+msgid "Layout"
+msgstr ""
+
+#: post-meta.php:87 post-meta.php:109 post-meta.php:122
+#: elementor/widgets/woo-product-slider.php:43
+msgid "Layout 1"
+msgstr ""
+
+#: post-meta.php:88 post-meta.php:110 post-meta.php:123
+#: elementor/widgets/woo-product-slider.php:44
+msgid "Layout 2"
+msgstr ""
+
+#: post-meta.php:89 post-meta.php:111 post-meta.php:124
+msgid "Layout 3"
+msgstr ""
+
+#: post-meta.php:90 post-meta.php:112 post-meta.php:125
+msgid "Layout 4"
+msgstr ""
+
+#: post-meta.php:113
+msgid "Layout 5"
+msgstr ""
+
+#: post-meta.php:31
+msgid "Layout Settings"
+msgstr ""
+
+#: post-meta.php:35
+msgid "Layouts"
+msgstr ""
+
+#: elementor/widgets/info-box.php:51 elementor/widgets/info-box.php:99
+#: elementor/widgets/rt-counter.php:49
+#: elementor/widgets/rt-manual-class.php:121 elementor/widgets/title.php:78
+msgid "Left"
+msgstr ""
+
+#: post-meta.php:45
+msgid "Left Sidebar"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:36
+msgid "Let's Introduces"
+msgstr ""
+
+#: elementor/widgets/image.php:146
+msgid "Link (Optional)"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:172
+msgid "Linkable"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:176
+msgid "Linked to class page or not"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:166
+msgid "Linked to Trainer Profile page or not"
+msgstr ""
+
+#: module/rt-post-share.php:30
+msgid "LinkedIn"
+msgstr ""
+
+#: widget/social-widget.php:120
+msgid "LinkedIn URL"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:66
+msgid "Logo Gird"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:63
+msgid "Logo Layout"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:65
+msgid "Logo Slider"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:74
+msgid "Logos Gray Scale"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:144 elementor/widgets/rt-trainer.php:445
+#: elementor/widgets/rt-upcomming-class.php:202
+#: elementor/widgets/testimonial.php:277
+#: elementor/widgets/woo-product-category.php:100
+msgid "Loop"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:89
+msgid ""
+"Lorem Ipsum has been the industrys standard dummy text ever since printer "
+"took a galley. Rimply dummy text of the printing and typesetting industry"
+msgstr ""
+
+#: post-meta.php:57
+msgid "Main Menu"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:59
+msgid "Make Your Body Fit & Perfect"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:41
+msgid "Manual Class Layout 1"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:42
+msgid "Manual Class Layout 2 "
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:44
+msgid "Manually type means you insert the show data"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:88 elementor/widgets/post-grid.php:95
+#: elementor/widgets/post-grid.php:102
+#: elementor/widgets/rt-feature-class.php:62
+#: elementor/widgets/rt-gallery.php:83 elementor/widgets/rt-gallery.php:106
+#: elementor/widgets/rt-single-gallery.php:87
+#: elementor/widgets/rt-single-gallery.php:110
+#: elementor/widgets/rt-trainer.php:97 elementor/widgets/testimonial.php:74
+msgid "Maximum number of words"
+msgstr ""
+
+#: elementor/widgets/info-box.php:60 elementor/widgets/rt-manual-class.php:130
+#: elementor/widgets/title.php:87
+msgid "Media Type"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:232 elementor/widgets/rt-trainer.php:546
+#: elementor/widgets/rt-upcomming-class.php:298
+#: elementor/widgets/testimonial.php:376
+#: elementor/widgets/woo-product-category.php:199
+#: elementor/widgets/woo-product-slider.php:286
+msgid "Medium Desktop items"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:385
+msgid "Meta  Color"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:375
+msgid "Meta Icon Color"
+msgstr ""
+
+#: elementor/views/bmi-calculator.php:74
+msgid "Metabolic Rate"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:64
+msgid "Metric"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:19
+#: elementor/views/bmi-calculator-3.php:19
+#: elementor/views/bmi-calculator.php:19
+msgid "Metric Units"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:266 elementor/widgets/rt-trainer.php:579
+#: elementor/widgets/rt-upcomming-class.php:331
+#: elementor/widgets/testimonial.php:408
+#: elementor/widgets/woo-product-category.php:231
+#: elementor/widgets/woo-product-slider.php:318
+msgid "Mobile items"
+msgstr ""
+
+#: elementor/views/rt-routine.php:10
+msgid "MON"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:35
+msgid "Mon"
+msgstr ""
+
+#: post-meta.php:372 widget/rt-class-widget.php:35
+#: widget/rt-specific-opening-widget.php:17 elementor/views/rt-routine-2.php:10
+#: elementor/views/rt-schedule-2.php:14 elementor/views/rt-schedule.php:15
+#: elementor/widgets/rt-class.php:41 elementor/widgets/rt-class.php:111
+msgid "Monday"
+msgstr ""
+
+#: elementor/widgets/pricing-switcher.php:39
+#: elementor/widgets/pricing-switcher.php:107
+msgid "Monthly Price"
+msgstr ""
+
+#: elementor/widgets/pricing-switcher.php:201
+msgid "Monthly Title"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:290 elementor/widgets/rt-gallery.php:136
+#: elementor/widgets/rt-trainer.php:131
+#: elementor/widgets/woo-product-grid.php:92
+msgid "More Button"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:280 elementor/widgets/rt-class.php:315
+#: elementor/widgets/rt-gallery.php:127 elementor/widgets/rt-trainer.php:121
+msgid "More Button Display"
+msgstr ""
+
+#: elementor/widgets/woo-product-grid.php:100
+msgid "More Button Text"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:303 elementor/widgets/rt-class.php:326
+msgid "MORE CLASS"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:149
+msgid "MORE GALLERIES"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:144
+msgid "MORE TEAMS"
+msgstr ""
+
+#: widget/rt-feature-post.php:174 widget/rt-post-box.php:191
+msgid "Most Commented"
+msgstr ""
+
+#: widget/rt-feature-post.php:173 widget/rt-post-box.php:190
+msgid "Most Viewed"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:48
+msgid "Mr. Robert Smith"
+msgstr ""
+
+#: widget/sidebar-generator.php:38
+msgid "Name"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:283
+#: elementor/widgets/woo-product-category.php:106
+msgid "Navigation"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:173
+msgid "Navigation Arrow"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:177
+msgid "Navigation Arrow. Default: On"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:191
+msgid "Navigation Menu Display"
+msgstr ""
+
+#: elementor/widgets/woo-info-box.php:55
+msgid "New Collection"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:201
+msgid "Next 2 Day's Class"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:145
+msgid "Next Arrow Position"
+msgstr ""
+
+#: elementor/views/woo-product-grid.php:106
+#: elementor/views/woo-product-slider-2.php:167
+#: elementor/views/woo-product-slider.php:191
+#: elementor/views/woo-single-product.php:67
+msgid "No products available"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:212 elementor/widgets/rt-class.php:472
+#: elementor/widgets/rt-trainer.php:336
+#: elementor/widgets/woo-product-category.php:323
+#: elementor/widgets/woo-product-slider.php:460
+msgid "none"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:29
+#: elementor/views/bmi-calculator-3.php:29
+#: elementor/views/bmi-calculator.php:29 elementor/widgets/info-box.php:332
+#: elementor/widgets/rt-button.php:113 elementor/widgets/woo-info-box.php:224
+msgid "Normal"
+msgstr ""
+
+#: widget/rt-class-widget.php:138 widget/rt-feature-post.php:184
+#: widget/rt-post-box.php:201 widget/rt-post-tab.php:277
+#: widget/rt-recent-post-widget.php:101
+msgid "Number of posts to show:"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:93 elementor/widgets/post-grid.php:260
+#: elementor/widgets/rt-class.php:342 elementor/widgets/rt-gallery.php:206
+#: elementor/widgets/rt-trainer.php:386
+#: elementor/widgets/woo-product-grid.php:114
+msgid "Number of Responsive Columns"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:215 elementor/widgets/rt-feature-class.php:45
+msgid "Number of schedule to show"
+msgstr ""
+
+#: widget/rt-class-widget.php:140
+msgid "Number of schedule to show:"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:31
+#: elementor/views/bmi-calculator-3.php:31
+#: elementor/views/bmi-calculator.php:31
+msgid "Obese"
+msgstr ""
+
+#: elementor/init.php:152 elementor/init.php:180 elementor/widgets/cta.php:135
+#: elementor/widgets/cta.php:145 elementor/widgets/info-box.php:189
+#: elementor/widgets/post-grid.php:203 elementor/widgets/rt-banner.php:156
+#: elementor/widgets/rt-banner.php:166
+#: elementor/widgets/rt-bmi-calculator.php:74
+#: elementor/widgets/rt-bmi-calculator.php:90
+#: elementor/widgets/rt-class.php:263 elementor/widgets/rt-class.php:272
+#: elementor/widgets/rt-class.php:282 elementor/widgets/rt-class.php:317
+#: elementor/widgets/rt-class.php:463 elementor/widgets/rt-counter.php:109
+#: elementor/widgets/rt-feature-class.php:69
+#: elementor/widgets/rt-gallery.php:129
+#: elementor/widgets/rt-manual-class.php:168
+#: elementor/widgets/rt-routine.php:164 elementor/widgets/rt-routine.php:174
+#: elementor/widgets/rt-routine.php:184 elementor/widgets/rt-routine.php:193
+#: elementor/widgets/rt-schedule.php:82 elementor/widgets/rt-trainer.php:87
+#: elementor/widgets/rt-trainer.php:105 elementor/widgets/rt-trainer.php:114
+#: elementor/widgets/rt-trainer.php:123 elementor/widgets/rt-trainer.php:165
+#: elementor/widgets/rt-trainer.php:327
+#: elementor/widgets/rt-upcomming-class.php:177
+#: elementor/widgets/testimonial.php:88 elementor/widgets/testimonial.php:97
+#: elementor/widgets/testimonial.php:106
+#: elementor/widgets/text-with-button.php:115 elementor/widgets/video.php:103
+#: elementor/widgets/woo-best-deal-product.php:74
+#: elementor/widgets/woo-best-deal-product.php:82
+#: elementor/widgets/woo-info-box.php:83
+#: elementor/widgets/woo-product-category.php:314
+#: elementor/widgets/woo-product-grid.php:62
+#: elementor/widgets/woo-product-grid.php:70
+#: elementor/widgets/woo-product-grid.php:78
+#: elementor/widgets/woo-product-grid.php:86
+#: elementor/widgets/woo-product-grid.php:94
+#: elementor/widgets/woo-product-grid.php:103
+#: elementor/widgets/woo-product-slider.php:121
+#: elementor/widgets/woo-product-slider.php:129
+#: elementor/widgets/woo-product-slider.php:138
+#: elementor/widgets/woo-product-slider.php:147
+#: elementor/widgets/woo-product-slider.php:166
+#: elementor/widgets/woo-product-slider.php:175
+#: elementor/widgets/woo-product-slider.php:184
+#: elementor/widgets/woo-product-slider.php:451
+#: elementor/widgets/woo-single-product.php:72
+#: elementor/widgets/woo-single-product.php:80
+#: elementor/widgets/woo-single-product.php:88
+msgid "Off"
+msgstr ""
+
+#: elementor/views/banner-3.php:34
+msgid "off"
+msgstr ""
+
+#: elementor/init.php:153 elementor/widgets/cta.php:134
+#: elementor/widgets/cta.php:144 elementor/widgets/info-box.php:188
+#: elementor/widgets/post-grid.php:202 elementor/widgets/rt-banner.php:155
+#: elementor/widgets/rt-banner.php:165
+#: elementor/widgets/rt-bmi-calculator.php:73
+#: elementor/widgets/rt-bmi-calculator.php:89
+#: elementor/widgets/rt-class.php:262 elementor/widgets/rt-class.php:271
+#: elementor/widgets/rt-class.php:281 elementor/widgets/rt-class.php:316
+#: elementor/widgets/rt-class.php:462 elementor/widgets/rt-counter.php:108
+#: elementor/widgets/rt-feature-class.php:68
+#: elementor/widgets/rt-gallery.php:128
+#: elementor/widgets/rt-manual-class.php:167
+#: elementor/widgets/rt-routine.php:163 elementor/widgets/rt-routine.php:173
+#: elementor/widgets/rt-routine.php:183 elementor/widgets/rt-routine.php:192
+#: elementor/widgets/rt-schedule.php:81 elementor/widgets/rt-trainer.php:86
+#: elementor/widgets/rt-trainer.php:104 elementor/widgets/rt-trainer.php:113
+#: elementor/widgets/rt-trainer.php:122 elementor/widgets/rt-trainer.php:164
+#: elementor/widgets/rt-trainer.php:326
+#: elementor/widgets/rt-upcomming-class.php:176
+#: elementor/widgets/testimonial.php:87 elementor/widgets/testimonial.php:96
+#: elementor/widgets/testimonial.php:105
+#: elementor/widgets/text-with-button.php:114 elementor/widgets/video.php:102
+#: elementor/widgets/woo-best-deal-product.php:73
+#: elementor/widgets/woo-best-deal-product.php:81
+#: elementor/widgets/woo-info-box.php:82
+#: elementor/widgets/woo-product-category.php:313
+#: elementor/widgets/woo-product-grid.php:61
+#: elementor/widgets/woo-product-grid.php:69
+#: elementor/widgets/woo-product-grid.php:77
+#: elementor/widgets/woo-product-grid.php:85
+#: elementor/widgets/woo-product-grid.php:93
+#: elementor/widgets/woo-product-grid.php:102
+#: elementor/widgets/woo-product-slider.php:120
+#: elementor/widgets/woo-product-slider.php:128
+#: elementor/widgets/woo-product-slider.php:137
+#: elementor/widgets/woo-product-slider.php:146
+#: elementor/widgets/woo-product-slider.php:165
+#: elementor/widgets/woo-product-slider.php:174
+#: elementor/widgets/woo-product-slider.php:183
+#: elementor/widgets/woo-product-slider.php:450
+#: elementor/widgets/woo-single-product.php:71
+#: elementor/widgets/woo-single-product.php:79
+#: elementor/widgets/woo-single-product.php:87
+msgid "On"
+msgstr ""
+
+#: elementor/init.php:179
+msgid "on"
+msgstr ""
+
+#: post-meta.php:322 post-meta.php:327
+msgid "Only Used in class single page"
+msgstr ""
+
+#: post-meta.php:307
+msgid "Only Used in class single page(ex:$40)"
+msgstr ""
+
+#: post-meta.php:317
+msgid "Only Used in class single page(ex:60mins/120mins)"
+msgstr ""
+
+#: post-meta.php:312
+msgid "Only Used in class single page(ex:per month/per year)"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:69
+msgid "Onsale Product"
+msgstr ""
+
+#: widget/sidebar-generator.php:172 widget/sidebar-generator.php:211
+msgid "Operation failed"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:133
+msgid "Option"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:70 elementor/widgets/rt-trainer.php:73
+#: elementor/widgets/testimonial.php:62
+msgid "Order By"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:76
+msgid "Orderby"
+msgstr ""
+
+#: widget/rt-class-widget.php:11
+msgid "Other class display widget.It should be used only class sidebar."
+msgstr ""
+
+#: widget/rt-class-widget.php:28
+msgid "Other Classes"
+msgstr ""
+
+#: elementor/widgets/title.php:138
+msgid ""
+"Our agency can only be as strong as our people our team agenhave run their "
+"businesses designed."
+msgstr ""
+
+#: elementor/widgets/contact-info.php:91
+msgid "Our Office Address"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:140
+msgid "Our Services"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:30
+#: elementor/views/bmi-calculator-3.php:30
+#: elementor/views/bmi-calculator.php:30
+msgid "Overweight"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:62
+#: elementor/widgets/pricing-switcher.php:31
+#: elementor/widgets/pricing-switcher.php:99
+msgid "Package Name"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:164
+#: elementor/widgets/pricing-switcher.php:275
+msgid "Package Name Color"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:151
+#: elementor/widgets/pricing-switcher.php:252
+msgid "Package Name Style"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:158
+#: elementor/widgets/pricing-switcher.php:259
+msgid "Package Name Typography"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:201
+#: elementor/widgets/pricing-switcher.php:293
+msgid "Package Price Color"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:68
+msgid "Package Text"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:181
+msgid "Package Text Color"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:175
+msgid "Package Text Typography"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:97
+msgid "Padding"
+msgstr ""
+
+#: post-meta.php:237
+msgid "Page/Post Background Color"
+msgstr ""
+
+#: post-meta.php:232
+msgid "Page/Post Background Image"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:451
+msgid "Pagination"
+msgstr ""
+
+#: elementor/widgets/image.php:167
+msgid "Paralax"
+msgstr ""
+
+#: elementor/init.php:150
+msgid "Parallax"
+msgstr ""
+
+#: elementor/init.php:177
+msgid "Parallax Transition off?"
+msgstr ""
+
+#: widget/rt-download-widget.php:78
+msgid "Pdf Title"
+msgstr ""
+
+#: elementor/widgets/video.php:60
+msgid "Percentage"
+msgstr ""
+
+#: widget/advertisement-widget.php:104
+msgid "Percentage Discount"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:462 elementor/widgets/rt-banner.php:515
+msgid "Percentage Text Color"
+msgstr ""
+
+#: widget/address-widget.php:87 elementor/widgets/cta.php:98
+msgid "Phone Number"
+msgstr ""
+
+#: elementor/widgets/cta.php:260
+msgid "Phone Text Color"
+msgstr ""
+
+#: elementor/widgets/cta.php:253
+msgid "Phone Typo"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:369 elementor/widgets/rt-gallery.php:233
+#: elementor/widgets/rt-trainer.php:414
+#: elementor/widgets/woo-product-grid.php:141
+msgid "Phones: < 575px"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:293
+msgid "Phones: < 576px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:113
+msgid "Phones: < 768px"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:286
+msgid "Phones: > 576px"
+msgstr ""
+
+#: module/rt-post-share.php:35
+msgid "Pinterest"
+msgstr ""
+
+#: widget/social-widget.php:124
+msgid "Pinterest URL"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:33
+#: elementor/widgets/rt-single-gallery.php:32
+msgid "Please Selecet category"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:33
+#: elementor/widgets/woo-single-product.php:38
+msgid "Please Selecet Posts "
+msgstr ""
+
+#: widget/rt-post-tab.php:46
+msgid "Popular"
+msgstr ""
+
+#: widget/rt-feature-post.php:170 widget/rt-post-box.php:187
+msgid "Post Display Order : "
+msgstr ""
+
+#: widget/rt-post-box.php:10
+msgid "Post Display Widget"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:47
+msgid "Post Grid Style 1"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:48
+msgid "Post Grid Style 2"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:49
+msgid "Post Grid Style 3"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:57
+msgid "Post Ordering"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:67
+msgid "Post Sorting"
+msgstr ""
+
+#: widget/rt-post-tab.php:10
+msgid "Post Tab Display Widget"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:135 elementor/widgets/rt-schedule.php:53
+msgid "Posts"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:82
+msgid "Prefix of currency."
+msgstr ""
+
+#: elementor/widgets/testimonial.php:114
+msgid "Prev Arrow Position"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:81 elementor/widgets/rt-banner.php:77
+msgid "Price"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:173
+#: elementor/widgets/woo-product-slider.php:429
+#: elementor/widgets/woo-single-product.php:162
+msgid "Price Color"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:131
+#: elementor/widgets/woo-product-slider.php:387
+#: elementor/widgets/woo-single-product.php:120
+msgid "Price Typo"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:83
+msgid "Price(High-Low)"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:82
+msgid "Price(Low-High)"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:237
+#: elementor/widgets/pricing-switcher.php:327
+msgid "Pricing Box Background"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:54
+#: elementor/widgets/pricing-switcher.php:172
+msgid "Pricing Table 1"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:55
+#: elementor/widgets/pricing-switcher.php:173
+msgid "Pricing Table 2"
+msgstr ""
+
+#: module/rt-post-share.php:65
+msgid "Print"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:132
+msgid "Printerest URL"
+msgstr ""
+
+#: elementor/widgets/woo-single-product.php:86
+msgid "Product Box Full Width"
+msgstr ""
+
+#: elementor/widgets/woo-product-grid.php:18
+msgid "Product Grid"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:18
+msgid "Product Slider"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:215 elementor/widgets/rt-class.php:475
+#: elementor/widgets/rt-trainer.php:339
+#: elementor/widgets/woo-product-category.php:326
+#: elementor/widgets/woo-product-slider.php:463
+msgid "pulse"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:130 elementor/widgets/rt-schedule.php:48
+msgid "Query type"
+msgstr ""
+
+#: elementor/widgets/woo-product-grid.php:76
+#: elementor/widgets/woo-product-slider.php:136
+msgid "Quick View Display"
+msgstr ""
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr ""
+
+#: elementor/init.php:108
+msgid "RadiusTheme Elements"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:81
+msgid "Rand"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:70
+msgid "Random Post"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:80
+#: elementor/widgets/woo-product-grid.php:68
+#: elementor/widgets/woo-product-slider.php:127
+#: elementor/widgets/woo-single-product.php:78
+msgid "Rating Display"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:95
+msgid "Ratting Display"
+msgstr ""
+
+#: elementor/widgets/info-box.php:205 elementor/widgets/rt-button.php:86
+#: elementor/widgets/text-with-button.php:124
+msgid "Read More"
+msgstr ""
+
+#: widget/rt-feature-post.php:172 widget/rt-post-box.php:189
+#: widget/rt-post-tab.php:43
+msgid "Recent"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:69
+msgid "Recent Post"
+msgstr ""
+
+#: widget/rt-feature-post.php:20 widget/rt-post-box.php:20
+#: widget/rt-post-tab.php:20 widget/rt-recent-post-widget.php:21
+msgid "Recent Posts"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:157
+msgid "Recommended  image 353 x 412"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:179
+msgid "Recommended 641x470 image size"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:76
+#: elementor/widgets/about-image-text.php:82 elementor/widgets/image.php:104
+#: elementor/widgets/image.php:131 elementor/widgets/info-box.php:82
+#: elementor/widgets/pricing-plan.php:111 elementor/widgets/rt-banner.php:177
+#: elementor/widgets/rt-manual-class.php:99
+#: elementor/widgets/rt-manual-class.php:152
+#: elementor/widgets/text-with-button.php:99 elementor/widgets/title.php:110
+#: elementor/widgets/video.php:89 elementor/widgets/woo-info-box.php:39
+msgid "Recommended full image"
+msgstr ""
+
+#: elementor/widgets/cta.php:106
+msgid "Recommended full image size"
+msgstr ""
+
+#: elementor/widgets/image.php:121
+msgid "Recommended image 245x241 image size"
+msgstr ""
+
+#: module/rt-post-share.php:55
+msgid "Reddit"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:247
+msgid "Responsive items"
+msgstr ""
+
+#: elementor/widgets/info-box.php:107 elementor/widgets/rt-counter.php:51
+msgid "Right"
+msgstr ""
+
+#: post-meta.php:46
+msgid "Right Sidebar"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:123
+msgid "Routine Layout 1"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:124
+msgid "Routine Layout 2"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:20
+msgid "RT About Image Text"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:21
+msgid "RT Banner"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:17
+msgid "RT BMI Calculator"
+msgstr ""
+
+#: elementor/widgets/rt-button.php:17
+msgid "RT Button"
+msgstr ""
+
+#: elementor/widgets/cta.php:18
+msgid "RT Call to Action"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:21
+msgid "RT Class"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:17
+msgid "RT Contact Info"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:17
+msgid "RT Counter"
+msgstr ""
+
+#: elementor/widgets/rt-feature-class.php:21
+msgid "RT Feature Class"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:17
+msgid "RT Gallery"
+msgstr ""
+
+#: elementor/widgets/image.php:20
+msgid "RT Image"
+msgstr ""
+
+#: elementor/widgets/info-box.php:20
+msgid "RT Info Box"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:16
+msgid "RT Logo Slider and Grid"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:22
+msgid "RT Manual Class"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:15
+msgid "RT Post Grid"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:19
+msgid "RT Pricing Plan"
+msgstr ""
+
+#: elementor/widgets/pricing-switcher.php:19
+msgid "RT Pricing Swicher"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:21
+msgid "RT Routine"
+msgstr ""
+
+#: elementor/widgets/rt-schedule.php:21
+msgid "RT Schedule"
+msgstr ""
+
+#: elementor/widgets/title.php:20
+msgid "RT Section Title"
+msgstr ""
+
+#: elementor/widgets/rt-single-gallery.php:17
+msgid "RT Single Gallery Post"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:19
+msgid "RT Testimonial"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:21
+msgid "RT Title Text With Button"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:16
+msgid "RT Trainer"
+msgstr ""
+
+#: elementor/widgets/video.php:21
+msgid "RT Video"
+msgstr ""
+
+#: elementor/widgets/woo-product-category.php:20
+msgid "RT Woo Category"
+msgstr ""
+
+#: elementor/widgets/woo-info-box.php:20
+msgid "RT Woocommerce Info Box"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:216 elementor/widgets/rt-class.php:476
+#: elementor/widgets/rt-trainer.php:340
+#: elementor/widgets/woo-product-category.php:327
+#: elementor/widgets/woo-product-slider.php:464
+msgid "rubberBand"
+msgstr ""
+
+#: elementor/views/rt-routine.php:15
+msgid "SAT"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:40
+msgid "Sat"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:89
+msgid "Sat-Mon"
+msgstr ""
+
+#: post-meta.php:377 widget/rt-class-widget.php:40
+#: widget/rt-specific-opening-widget.php:22 elementor/views/rt-routine-2.php:15
+#: elementor/views/rt-schedule-2.php:19 elementor/views/rt-schedule.php:20
+#: elementor/widgets/rt-class.php:46 elementor/widgets/rt-class.php:116
+msgid "Saturday"
+msgstr ""
+
+#: post-meta.php:335
+msgid "Schedule"
+msgstr ""
+
+#: elementor/widgets/rt-schedule.php:39
+msgid "Schedule By"
+msgstr ""
+
+#: elementor/widgets/rt-feature-class.php:168
+msgid "Schedule Color"
+msgstr ""
+
+#: post-meta.php:353
+msgid "Schedule Table Text"
+msgstr ""
+
+#: elementor/widgets/rt-feature-class.php:117
+msgid "Schedule Typo"
+msgstr ""
+
+#: widget/search-widget.php:14
+msgid "Search here ..."
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:44
+#: elementor/widgets/woo-product-slider.php:36
+#: elementor/widgets/woo-single-product.php:49
+msgid "Section"
+msgstr ""
+
+#: elementor/widgets/pricing-switcher.php:194
+#: elementor/widgets/rt-upcomming-class.php:168
+msgid "Section Content"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:448
+msgid "Section Content  Color"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:95
+msgid "Section Image"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:409
+msgid "Section Style"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:160
+msgid "Section Sub Title"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:35
+#: elementor/widgets/pricing-switcher.php:187
+msgid "Section Subtitle"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:439
+msgid "Section Subtitle  Color"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:424
+msgid "Section SubTitle Typo"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:41
+#: elementor/widgets/pricing-switcher.php:180
+#: elementor/widgets/rt-upcomming-class.php:152 elementor/widgets/title.php:30
+#: elementor/widgets/woo-best-deal-product.php:49
+#: elementor/widgets/woo-product-grid.php:41
+#: elementor/widgets/woo-product-slider.php:51
+msgid "Section Title"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:430
+msgid "Section Title  Color"
+msgstr ""
+
+#: elementor/widgets/pricing-switcher.php:265
+msgid "Section Title Color"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:417
+msgid "Section Title Typo"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:66
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus errort voluptatem accus antium mque"
+msgstr ""
+
+#: elementor/widgets/woo-product-grid.php:104
+msgid "See More"
+msgstr ""
+
+#: post-meta.php:371
+msgid "Select a Weekday"
+msgstr ""
+
+#: widget/rt-post-box.php:211 widget/rt-post-tab.php:287
+msgid "Select Box Style : "
+msgstr ""
+
+#: elementor/widgets/woo-product-category.php:30
+msgid "Select Categories"
+msgstr ""
+
+#: elementor/widgets/woo-product-category.php:41
+msgid "Select Category"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:56
+#: elementor/widgets/woo-single-product.php:54
+msgid "Select Post By Name"
+msgstr ""
+
+#: post-meta.php:437
+msgid "Select the Rating"
+msgstr ""
+
+#: elementor/widgets/rt-feature-class.php:51
+#: elementor/widgets/rt-routine.php:140 elementor/widgets/rt-schedule.php:58
+msgid "Selects posts"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:224
+msgid ""
+"Set any value for example .8 seconds to play it in every 2 seconds. Default: "
+".8 Seconds"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:216
+msgid ""
+"Set any value for example 5 seconds to play it in every 5 seconds. Default: "
+"5 Seconds"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:217 elementor/widgets/rt-class.php:477
+#: elementor/widgets/rt-trainer.php:341
+#: elementor/widgets/woo-product-category.php:328
+#: elementor/widgets/woo-product-slider.php:465
+msgid "shakeX"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:218 elementor/widgets/rt-class.php:478
+#: elementor/widgets/rt-trainer.php:342
+#: elementor/widgets/woo-product-category.php:329
+#: elementor/widgets/woo-product-slider.php:466
+msgid "shakeY"
+msgstr ""
+
+#: elementor/widgets/cta.php:133
+msgid "Shape 1"
+msgstr ""
+
+#: elementor/widgets/cta.php:143
+msgid "Shape 2"
+msgstr ""
+
+#: elementor/widgets/video.php:111
+msgid "Shape 2 Angle"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:263
+msgid "Shape Color"
+msgstr ""
+
+#: elementor/widgets/video.php:101
+msgid "Shape Display"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:156 elementor/widgets/woo-info-box.php:35
+msgid "Shape Image"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:164
+msgid "Shape Image  Display"
+msgstr ""
+
+#: elementor/views/banner-2.php:54 elementor/views/banner.php:41
+msgid "Share"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:421
+msgid "Share Positioning"
+msgstr ""
+
+#: module/rt-post-share.php:60
+msgid "Share via Email"
+msgstr ""
+
+#: elementor/widgets/woo-best-deal-product.php:95
+#: elementor/widgets/woo-info-box.php:98
+#: elementor/widgets/woo-product-category.php:64
+msgid "Shop Now"
+msgstr ""
+
+#: widget/rt-feature-post.php:181 widget/rt-post-box.php:198
+#: widget/rt-post-tab.php:274 elementor/widgets/post-grid.php:108
+#: elementor/widgets/post-grid.php:141 elementor/widgets/post-grid.php:149
+#: elementor/widgets/post-grid.php:157 elementor/widgets/post-grid.php:165
+#: elementor/widgets/post-grid.php:173 elementor/widgets/post-grid.php:181
+#: elementor/widgets/rt-gallery.php:89 elementor/widgets/rt-gallery.php:97
+#: elementor/widgets/rt-gallery.php:113
+#: elementor/widgets/rt-single-gallery.php:93
+#: elementor/widgets/rt-single-gallery.php:101
+#: elementor/widgets/rt-single-gallery.php:117
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:140
+msgid "Show Author Name"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:156
+msgid "Show Categories"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:164
+msgid "Show Comment Number"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:148
+msgid "Show Date"
+msgstr ""
+
+#: elementor/widgets/rt-gallery.php:112
+#: elementor/widgets/rt-single-gallery.php:116
+msgid "Show Link Button"
+msgstr ""
+
+#: widget/rt-feature-post.php:178 widget/rt-post-box.php:195
+#: widget/rt-post-tab.php:271
+msgid "Show no preview image : "
+msgstr ""
+
+#: elementor/widgets/rt-schedule.php:84
+msgid "Show or Hide Button. Default: On"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:76
+#: elementor/widgets/rt-bmi-calculator.php:92
+msgid "Show or Hide Calculation Units. Default: On"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:168
+msgid "Show or Hide Content. Default: Off"
+msgstr ""
+
+#: elementor/widgets/info-box.php:191 elementor/widgets/rt-trainer.php:89
+#: elementor/widgets/text-with-button.php:117
+#: elementor/widgets/woo-info-box.php:85
+msgid "Show or Hide Content. Default: off"
+msgstr ""
+
+#: elementor/widgets/cta.php:137 elementor/widgets/cta.php:147
+#: elementor/widgets/rt-banner.php:158
+msgid "Show or Hide Content. Default: On"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:111
+#: elementor/widgets/rt-upcomming-class.php:179
+msgid "Show or Hide Content. Default: onn"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:107 elementor/widgets/testimonial.php:90
+msgid "Show or Hide Designation. Default: On"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:319 elementor/widgets/video.php:105
+msgid "Show or Hide More Button . Default: Off"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:265 elementor/widgets/rt-class.php:274
+#: elementor/widgets/rt-class.php:284 elementor/widgets/rt-feature-class.php:71
+#: elementor/widgets/rt-gallery.php:131
+#: elementor/widgets/rt-manual-class.php:170
+#: elementor/widgets/rt-trainer.php:125
+msgid "Show or Hide More Button . Default: On"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:195
+msgid "Show or Hide Navigation Menu"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:99
+msgid "Show or Hide Ratting. Default: Off"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:167
+msgid "Show or Hide Shape .Default: On"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:116
+msgid "Show or Hide Social Medias. Default: On"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:108
+msgid "Show or Hide Thumbs. Default: Off"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:186
+msgid "Show or Hide Trainer Name"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:293 elementor/widgets/rt-gallery.php:139
+#: elementor/widgets/rt-trainer.php:134
+msgid "Show Pagination"
+msgstr ""
+
+#: widget/rt-feature-post.php:194 widget/rt-post-box.php:218
+#: widget/rt-post-tab.php:296
+msgid "Show Post Image : "
+msgstr ""
+
+#: elementor/widgets/rt-class.php:292 elementor/widgets/rt-gallery.php:138
+#: elementor/widgets/rt-trainer.php:133
+msgid "Show Read More"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:180
+msgid "Show Reading Length"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:172
+msgid "Show Views"
+msgstr ""
+
+#: widget/sidebar-generator.php:113
+msgid "Sidebar ID not found"
+msgstr ""
+
+#: widget/sidebar-generator.php:66
+msgid "Sidebar name can\\'t be empty"
+msgstr ""
+
+#: widget/sidebar-generator.php:79
+msgid ""
+"Sidebar with the same name already exists. Please choose a different name"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:81
+msgid "Signature Image"
+msgstr ""
+
+#: elementor/widgets/image.php:86
+msgid "Since Title"
+msgstr ""
+
+#: elementor/widgets/woo-single-product.php:18
+msgid "Singel Product"
+msgstr ""
+
+#: elementor/widgets/cta.php:155 elementor/widgets/cta.php:176
+#: elementor/widgets/cta.php:196 elementor/widgets/rt-banner.php:106
+#: elementor/widgets/rt-banner.php:193 elementor/widgets/rt-banner.php:227
+#: elementor/widgets/rt-banner.php:249 elementor/widgets/rt-trainer.php:175
+msgid "Size Unit Px"
+msgstr ""
+
+#: post-meta.php:283
+msgid "Skill Name"
+msgstr ""
+
+#: post-meta.php:288
+msgid "Skill Percentage (%)"
+msgstr ""
+
+#: widget/social-widget.php:128 elementor/widgets/contact-info.php:118
+msgid "Skype URL"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:231 elementor/widgets/rt-class.php:491
+#: elementor/widgets/rt-trainer.php:355
+#: elementor/widgets/woo-product-category.php:342
+#: elementor/widgets/woo-product-slider.php:479
+msgid "slideInDown"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:232 elementor/widgets/rt-class.php:492
+#: elementor/widgets/rt-trainer.php:356
+#: elementor/widgets/woo-product-category.php:343
+#: elementor/widgets/woo-product-slider.php:480
+msgid "slideInLeft"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:233 elementor/widgets/rt-class.php:493
+#: elementor/widgets/rt-trainer.php:357
+#: elementor/widgets/woo-product-category.php:344
+#: elementor/widgets/woo-product-slider.php:481
+msgid "slideInRight"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:234 elementor/widgets/rt-class.php:494
+#: elementor/widgets/rt-trainer.php:358
+#: elementor/widgets/woo-product-category.php:345
+#: elementor/widgets/woo-product-slider.php:482
+msgid "slideInUp"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:132 elementor/widgets/rt-trainer.php:433
+#: elementor/widgets/rt-upcomming-class.php:190
+#: elementor/widgets/testimonial.php:266
+#: elementor/widgets/woo-product-category.php:89
+#: elementor/widgets/woo-product-slider.php:159
+msgid "Slider Options"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:231
+msgid "Slider Rows"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:183 elementor/widgets/rt-trainer.php:495
+#: elementor/widgets/rt-upcomming-class.php:247
+#: elementor/widgets/testimonial.php:327
+#: elementor/widgets/woo-product-category.php:150
+msgid "Slider Speed"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:151 elementor/widgets/rt-trainer.php:463
+#: elementor/widgets/rt-upcomming-class.php:215
+#: elementor/widgets/testimonial.php:295
+#: elementor/widgets/woo-product-category.php:118
+msgid "Slides Per Group"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:192
+msgid "slides Per Group"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:196
+msgid "slides Per Group. Default: 1"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:203
+msgid "Slides Space"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:209
+msgid "Slides Space. Default: 24"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:120 elementor/widgets/rt-class.php:376
+#: elementor/widgets/rt-gallery.php:240 elementor/widgets/rt-trainer.php:421
+#: elementor/widgets/woo-product-grid.php:148
+msgid "Small Phones: < 480px"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:154
+msgid "Social Icon  Display"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:112
+msgid "Social Media Display"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:411
+msgid "Social Share Link"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:395
+msgid "Social Share Style"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:402
+msgid "Social Share Text"
+msgstr ""
+
+#: post-meta.php:265
+msgid "Socials"
+msgstr ""
+
+#: elementor/init.php:162
+msgid "Speed"
+msgstr ""
+
+#: elementor/widgets/image.php:168
+msgid "Spin"
+msgstr ""
+
+#: elementor/views/banner-6.php:76
+msgid "Start From"
+msgstr ""
+
+#: post-meta.php:382 elementor/widgets/rt-manual-class.php:71
+msgid "Start Time"
+msgstr ""
+
+#: module/rt-post-share.php:45
+msgid "StumbleUpon"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:98
+#: elementor/widgets/contact-info.php:157 elementor/widgets/info-box.php:34
+#: elementor/widgets/rt-banner.php:44
+#: elementor/widgets/rt-bmi-calculator.php:31
+#: elementor/widgets/rt-bmi-calculator.php:101
+#: elementor/widgets/rt-class.php:387 elementor/widgets/rt-counter.php:36
+#: elementor/widgets/rt-feature-class.php:103
+#: elementor/widgets/rt-gallery.php:166
+#: elementor/widgets/rt-manual-class.php:182
+#: elementor/widgets/rt-routine.php:207
+#: elementor/widgets/rt-single-gallery.php:136
+#: elementor/widgets/rt-trainer.php:47
+#: elementor/widgets/rt-upcomming-class.php:119
+#: elementor/widgets/rt-upcomming-class.php:352
+#: elementor/widgets/testimonial.php:43 elementor/widgets/testimonial.php:195
+#: elementor/widgets/video.php:40
+#: elementor/widgets/woo-product-category.php:251
+#: elementor/widgets/woo-product-slider.php:41
+msgid "Style"
+msgstr ""
+
+#: widget/rt-post-box.php:213 widget/rt-post-tab.php:289
+#: elementor/widgets/contact-info.php:57 elementor/widgets/cta.php:35
+#: elementor/widgets/image.php:41 elementor/widgets/info-box.php:36
+#: elementor/widgets/rt-banner.php:46
+#: elementor/widgets/rt-bmi-calculator.php:33
+#: elementor/widgets/rt-counter.php:38 elementor/widgets/testimonial.php:45
+#: elementor/widgets/video.php:42
+msgid "Style 1"
+msgstr ""
+
+#: widget/rt-post-box.php:214 elementor/widgets/contact-info.php:58
+#: elementor/widgets/cta.php:36 elementor/widgets/image.php:42
+#: elementor/widgets/info-box.php:37 elementor/widgets/rt-banner.php:47
+#: elementor/widgets/rt-bmi-calculator.php:34
+#: elementor/widgets/rt-counter.php:39 elementor/widgets/testimonial.php:46
+#: elementor/widgets/video.php:43
+msgid "Style 2"
+msgstr ""
+
+#: elementor/widgets/cta.php:37 elementor/widgets/image.php:43
+#: elementor/widgets/info-box.php:38 elementor/widgets/rt-banner.php:48
+#: elementor/widgets/rt-bmi-calculator.php:35
+#: elementor/widgets/testimonial.php:47
+msgid "Style 3"
+msgstr ""
+
+#: elementor/widgets/image.php:44 elementor/widgets/info-box.php:39
+#: elementor/widgets/rt-banner.php:49 elementor/widgets/testimonial.php:48
+msgid "Style 4"
+msgstr ""
+
+#: elementor/widgets/image.php:45 elementor/widgets/info-box.php:40
+#: elementor/widgets/rt-banner.php:50
+msgid "Style 5"
+msgstr ""
+
+#: elementor/widgets/image.php:46 elementor/widgets/info-box.php:41
+#: elementor/widgets/rt-banner.php:51
+msgid "Style 6"
+msgstr ""
+
+#: elementor/widgets/image.php:47 elementor/widgets/info-box.php:42
+msgid "Style 7"
+msgstr ""
+
+#: elementor/widgets/image.php:48
+msgid "Style 8"
+msgstr ""
+
+#: elementor/widgets/image.php:49
+msgid "Style 9"
+msgstr ""
+
+#: elementor/widgets/title.php:131
+msgid "SUB TITLE"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:81
+#: elementor/widgets/text-with-button.php:169 elementor/widgets/title.php:130
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:127
+#: elementor/widgets/text-with-button.php:183 elementor/widgets/title.php:268
+msgid "Sub Title Color"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:193
+msgid "Sub Title Space"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:112 elementor/widgets/title.php:261
+msgid "Sub Title Style"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:177
+msgid "Sub Title Typo"
+msgstr ""
+
+#: elementor/widgets/cta.php:90 elementor/widgets/rt-banner.php:64
+#: elementor/widgets/rt-bmi-calculator.php:55
+#: elementor/widgets/woo-info-box.php:60
+#: elementor/widgets/woo-product-category.php:52
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:327 elementor/widgets/rt-banner.php:580
+#: elementor/widgets/rt-bmi-calculator.php:197
+#: elementor/widgets/woo-info-box.php:168
+#: elementor/widgets/woo-product-category.php:280
+msgid "Subtitle Color"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:336
+msgid "Subtitle Shape Color"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:346 elementor/widgets/title.php:278
+msgid "Subtitle Space"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:311 elementor/widgets/rt-banner.php:564
+msgid "Subtitle Style"
+msgstr ""
+
+#: elementor/widgets/title.php:252 elementor/widgets/woo-info-box.php:155
+msgid "Subtitle Text"
+msgstr ""
+
+#: elementor/widgets/rt-banner.php:321 elementor/widgets/rt-banner.php:574
+#: elementor/widgets/woo-info-box.php:162
+#: elementor/widgets/woo-product-category.php:265
+msgid "Subtitle Typo"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:190
+msgid "Subtitle Typro"
+msgstr ""
+
+#: elementor/views/rt-routine.php:16
+msgid "SUN"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:41
+msgid "Sun"
+msgstr ""
+
+#: post-meta.php:378 widget/rt-class-widget.php:41
+#: widget/rt-specific-opening-widget.php:23 elementor/views/rt-routine-2.php:16
+#: elementor/views/rt-schedule-2.php:20 elementor/views/rt-schedule.php:21
+#: elementor/widgets/rt-class.php:47 elementor/widgets/rt-class.php:117
+msgid "Sunday"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:220 elementor/widgets/rt-class.php:480
+#: elementor/widgets/rt-trainer.php:344
+#: elementor/widgets/woo-product-category.php:331
+#: elementor/widgets/woo-product-slider.php:468
+msgid "swing"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:283
+msgid "Table Active Row Box"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:272
+msgid "Table Background"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:293
+msgid "Table Border Color"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:231
+msgid "Table Column Time Color"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:214
+msgid "Table Date Title Typo"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:221
+msgid "Table Row Date Color"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:248 elementor/widgets/rt-trainer.php:562
+#: elementor/widgets/rt-upcomming-class.php:314
+#: elementor/widgets/testimonial.php:392
+#: elementor/widgets/woo-product-category.php:215
+#: elementor/widgets/woo-product-slider.php:302
+msgid "Tablet items"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:362 elementor/widgets/rt-gallery.php:226
+#: elementor/widgets/rt-trainer.php:407
+#: elementor/widgets/woo-product-grid.php:134
+msgid "Tablets: < 767px"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:106 elementor/widgets/post-grid.php:279
+msgid "Tablets: > 767px"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:42
+msgid "Take Your Health And Fitness To New Level of Heights!"
+msgstr ""
+
+#: post-types.php:36
+msgid "Testimonial"
+msgstr ""
+
+#: post-types.php:66
+msgid "Testimonial Categories"
+msgstr ""
+
+#: post-types.php:65
+msgid "Testimonial Category"
+msgstr ""
+
+#: post-meta.php:430
+msgid "Testimonial Info"
+msgstr ""
+
+#: post-types.php:37
+msgid "Testimonials"
+msgstr ""
+
+#: elementor/widgets/woo-product-slider.php:346
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:36
+msgid "Text Style"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:207
+msgid "Text style"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:38
+msgid "Text Style 1"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:39
+msgid "Text Style 2"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:215
+msgid "Text Typo"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:91
+msgid "The total duration of the count animation in milisecond eg. 5000"
+msgstr ""
+
+#: elementor/views/rt-class-2.php:82
+msgid "There is no class on this day"
+msgstr ""
+
+#: elementor/widgets/image.php:117
+msgid "Thumb Image 1"
+msgstr ""
+
+#: elementor/widgets/image.php:127
+msgid "Thumb Image 2"
+msgstr ""
+
+#: elementor/widgets/testimonial.php:104
+msgid "Thumbs Display"
+msgstr ""
+
+#: elementor/views/rt-routine.php:13
+msgid "THUR"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:38
+msgid "Thur"
+msgstr ""
+
+#: post-meta.php:375 widget/rt-class-widget.php:38
+#: widget/rt-specific-opening-widget.php:20 elementor/views/rt-routine-2.php:13
+#: elementor/views/rt-schedule-2.php:17 elementor/views/rt-schedule.php:18
+#: elementor/widgets/rt-class.php:44 elementor/widgets/rt-class.php:114
+msgid "Thursday"
+msgstr ""
+
+#: elementor/views/rt-routine-2.php:98
+msgid "TIME"
+msgstr ""
+
+#: elementor/views/rt-schedule.php:157
+msgid "Time"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:252
+msgid "Time Color"
+msgstr ""
+
+#: widget/address-widget.php:75 widget/advertisement-widget.php:88
+#: widget/rt-download-widget.php:70 widget/social-widget.php:104
+#: elementor/widgets/cta.php:83 elementor/widgets/info-box.php:166
+#: elementor/widgets/info-box.php:257 elementor/widgets/rt-banner.php:58
+#: elementor/widgets/rt-bmi-calculator.php:42
+#: elementor/widgets/rt-class.php:177 elementor/widgets/rt-counter.php:70
+#: elementor/widgets/rt-gallery.php:73 elementor/widgets/rt-trainer.php:76
+#: elementor/widgets/testimonial.php:65
+#: elementor/widgets/text-with-button.php:75 elementor/widgets/title.php:124
+#: elementor/widgets/woo-info-box.php:53 elementor/widgets/woo-info-box.php:126
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:118 elementor/widgets/cta.php:243
+#: elementor/widgets/info-box.php:270 elementor/widgets/rt-banner.php:288
+#: elementor/widgets/rt-banner.php:552
+#: elementor/widgets/rt-bmi-calculator.php:114
+#: elementor/widgets/rt-class.php:400 elementor/widgets/rt-counter.php:126
+#: elementor/widgets/rt-feature-class.php:132
+#: elementor/widgets/rt-manual-class.php:195
+#: elementor/widgets/rt-trainer.php:215
+#: elementor/widgets/rt-upcomming-class.php:366
+#: elementor/widgets/testimonial.php:232
+#: elementor/widgets/text-with-button.php:155 elementor/widgets/title.php:167
+#: elementor/widgets/woo-best-deal-product.php:155
+#: elementor/widgets/woo-info-box.php:139
+#: elementor/widgets/woo-product-category.php:271
+#: elementor/widgets/woo-product-slider.php:411
+#: elementor/widgets/woo-single-product.php:144
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:100
+msgid "Title count"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:157
+msgid "Title Font Size"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:409
+#: elementor/widgets/rt-feature-class.php:141
+#: elementor/widgets/rt-manual-class.php:206
+#: elementor/widgets/rt-trainer.php:225
+#: elementor/widgets/woo-best-deal-product.php:164
+#: elementor/widgets/woo-product-slider.php:420
+#: elementor/widgets/woo-single-product.php:153
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/widgets/title.php:187
+msgid "Title Shape Positioning 1"
+msgstr ""
+
+#: elementor/widgets/title.php:218
+msgid "Title Shape Positioning 2"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:136
+#: elementor/widgets/rt-banner.php:298 elementor/widgets/title.php:177
+#: elementor/widgets/woo-product-category.php:291
+msgid "Title Space"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:105
+#: elementor/widgets/rt-banner.php:272 elementor/widgets/rt-banner.php:536
+#: elementor/widgets/text-with-button.php:149 elementor/widgets/title.php:36
+#: elementor/widgets/title.php:153
+msgid "Title Style"
+msgstr ""
+
+#: elementor/widgets/title.php:38
+msgid "Title Style 1"
+msgstr ""
+
+#: elementor/widgets/title.php:39
+msgid "Title Style 2"
+msgstr ""
+
+#: elementor/widgets/cta.php:237 elementor/widgets/info-box.php:264
+#: elementor/widgets/rt-banner.php:282 elementor/widgets/rt-banner.php:546
+#: elementor/widgets/rt-trainer.php:209
+#: elementor/widgets/text-with-button.php:142 elementor/widgets/title.php:161
+#: elementor/widgets/woo-best-deal-product.php:124
+#: elementor/widgets/woo-info-box.php:133
+#: elementor/widgets/woo-product-category.php:258
+#: elementor/widgets/woo-product-slider.php:380
+#: elementor/widgets/woo-single-product.php:113
+msgid "Title Typo"
+msgstr ""
+
+#: elementor/widgets/rt-bmi-calculator.php:108
+#: elementor/widgets/testimonial.php:202
+msgid "Title Typro"
+msgstr ""
+
+#: elementor/widgets/info-box.php:181 elementor/widgets/woo-info-box.php:75
+msgid "Title URL (Optional)"
+msgstr ""
+
+#: elementor/widgets/rt-feature-class.php:60
+#: elementor/widgets/rt-gallery.php:81
+#: elementor/widgets/rt-single-gallery.php:85
+msgid "Title Word count"
+msgstr ""
+
+#: widget/rt-class-widget.php:136 widget/rt-feature-post.php:167
+#: widget/rt-post-box.php:184 widget/rt-post-tab.php:268
+#: widget/rt-recent-post-widget.php:98 widget/rt-specific-opening-widget.php:88
+#: widget/rt-working-hours-widget.php:72
+msgid "Title:"
+msgstr ""
+
+#: widget/rt-specific-opening-widget.php:96
+msgid "To"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:200
+msgid "Today's Class"
+msgstr ""
+
+#: elementor/widgets/info-box.php:103
+msgid "Top"
+msgstr ""
+
+#: post-meta.php:73
+msgid "Top Bar"
+msgstr ""
+
+#: post-meta.php:83
+msgid "Top Bar Layout"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:208 elementor/widgets/rt-gallery.php:56
+#: elementor/widgets/rt-trainer.php:59
+#: elementor/widgets/rt-upcomming-class.php:143
+#: elementor/widgets/testimonial.php:79
+#: elementor/widgets/woo-best-deal-product.php:64
+#: elementor/widgets/woo-product-grid.php:52
+#: elementor/widgets/woo-product-slider.php:111
+#: elementor/widgets/woo-single-product.php:62
+msgid "Total number of items"
+msgstr ""
+
+#: elementor/widgets/rt-counter.php:71
+msgid "Trained People"
+msgstr ""
+
+#: post-meta.php:362 post-types.php:23 elementor/views/rt-schedule.php:161
+msgid "Trainer"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:173
+msgid "Trainer Box Min Height"
+msgstr ""
+
+#: post-types.php:53
+msgid "Trainer Category"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:262
+msgid "Trainer Color"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:288
+msgid "Trainer Content"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:240
+msgid "Trainer Designation"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:182
+msgid "Trainer Display"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:49
+msgid "Trainer Grid Layout 1"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:50
+msgid "Trainer Grid Layout 2"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:51
+msgid "Trainer Grid Layout 3"
+msgstr ""
+
+#: post-meta.php:249
+msgid "Trainer Info"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:162
+msgid "Trainer Linkable Button"
+msgstr ""
+
+#: post-types.php:19
+msgid "Trainer Member"
+msgstr ""
+
+#: post-meta.php:276
+msgid "Trainer Skills"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:52
+msgid "Trainer Slider Layout"
+msgstr ""
+
+#: post-meta.php:262
+msgid "Trainer Socials"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:202
+msgid "Trainer Title"
+msgstr ""
+
+#: post-types.php:20
+msgid "Trainers"
+msgstr ""
+
+#: post-types.php:54
+msgid "Trainers Categories"
+msgstr ""
+
+#: post-meta.php:63
+msgid "Transparent Header"
+msgstr ""
+
+#: elementor/views/rt-routine.php:11
+msgid "TUE"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:36
+msgid "Tue"
+msgstr ""
+
+#: post-meta.php:373 widget/rt-class-widget.php:36
+#: widget/rt-specific-opening-widget.php:18 elementor/views/rt-routine-2.php:11
+#: elementor/views/rt-schedule-2.php:15 elementor/views/rt-schedule.php:16
+#: elementor/widgets/rt-class.php:42 elementor/widgets/rt-class.php:112
+msgid "Tuesday"
+msgstr ""
+
+#: module/rt-post-share.php:50
+msgid "Tumblr"
+msgstr ""
+
+#: module/rt-post-share.php:25
+msgid "Twitter"
+msgstr ""
+
+#: widget/social-widget.php:116 elementor/widgets/contact-info.php:111
+msgid "Twitter URL"
+msgstr ""
+
+#: elementor/widgets/rt-schedule.php:93
+msgid "Typohraphy"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:28
+#: elementor/views/bmi-calculator-3.php:28
+#: elementor/views/bmi-calculator.php:28
+msgid "Underweight"
+msgstr ""
+
+#: elementor/widgets/pricing-switcher.php:55
+#: elementor/widgets/pricing-switcher.php:123
+msgid "Unlimited Access to Home Club"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:19
+msgid "Upcomming Class"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:121
+msgid "Upcomming Class Layout 1"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:122
+msgid "Upcomming Class Layout 2"
+msgstr ""
+
+#: post-meta.php:408
+msgid "Upload Servie image in case of icon not selected"
+msgstr ""
+
+#: elementor/widgets/logo-slider.php:49
+msgid "URL(optional)"
+msgstr ""
+
+#: elementor/widgets/video.php:113
+msgid "Use only number value.you don't have to use unit. Default: 174deg"
+msgstr ""
+
+#: elementor/widgets/pricing-plan.php:89
+msgid "Use postfix if you want"
+msgstr ""
+
+#: elementor/widgets/info-box.php:338 elementor/widgets/info-box.php:347
+#: elementor/widgets/info-box.php:358 elementor/widgets/woo-info-box.php:230
+#: elementor/widgets/woo-info-box.php:239
+#: elementor/widgets/woo-info-box.php:250
+msgid "Use same height and width size"
+msgstr ""
+
+#: post-meta.php:340
+msgid "Used in Routine Style"
+msgstr ""
+
+#: post-meta.php:355
+msgid "Used only class single page on the after  schedule table title"
+msgstr ""
+
+#: elementor/widgets/video.php:85
+msgid "Video Thumbnail"
+msgstr ""
+
+#: elementor/widgets/video.php:79
+msgid "Video URL"
+msgstr ""
+
+#: module/rt-post-views.php:121
+msgid "View"
+msgstr ""
+
+#: elementor/widgets/rt-routine.php:60
+msgid "View Profile"
+msgstr ""
+
+#: module/rt-post-views.php:65 module/rt-post-views.php:123
+msgid "Views"
+msgstr ""
+
+#: demo-importer.php:33
+msgid ""
+"Warning: All your old data will be lost if you install One Click demo data "
+"from here, so it is suitable only for a new website."
+msgstr ""
+
+#: elementor/widgets/cta.php:84
+msgid "We Are Always Provide Best Fitness Service For You"
+msgstr ""
+
+#: elementor/widgets/about-image-text.php:61
+msgid "We can help you to overcome the fears and obstacles in your life."
+msgstr ""
+
+#: elementor/views/rt-routine.php:12
+msgid "WED"
+msgstr ""
+
+#: elementor/widgets/rt-upcomming-class.php:37
+msgid "Wed"
+msgstr ""
+
+#: post-meta.php:374 widget/rt-class-widget.php:37
+#: widget/rt-specific-opening-widget.php:19 elementor/views/rt-routine-2.php:12
+#: elementor/views/rt-schedule-2.php:16 elementor/views/rt-schedule.php:17
+#: elementor/widgets/rt-class.php:43 elementor/widgets/rt-class.php:113
+msgid "Wednesday"
+msgstr ""
+
+#: elementor/widgets/rt-manual-class.php:87
+msgid "Week Day"
+msgstr ""
+
+#: widget/rt-working-hours-widget.php:75 widget/rt-working-hours-widget.php:81
+msgid "Week Day:"
+msgstr ""
+
+#: elementor/widgets/rt-schedule.php:100
+msgid "Week Title Typo"
+msgstr ""
+
+#: post-meta.php:368 elementor/widgets/rt-schedule.php:41
+msgid "Weekday"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:50
+#: elementor/views/bmi-calculator-3.php:51
+#: elementor/views/bmi-calculator.php:46
+msgid "Weight / kg"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:56
+#: elementor/views/bmi-calculator-3.php:53
+#: elementor/views/bmi-calculator.php:48
+msgid "Weight / lbs"
+msgstr ""
+
+#: elementor/views/bmi-calculator.php:63
+msgid "Weight Status"
+msgstr ""
+
+#: elementor/widgets/text-with-button.php:76
+#: elementor/widgets/woo-best-deal-product.php:51
+#: elementor/widgets/woo-product-slider.php:53
+msgid "Wellcome To Gymat"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:139
+msgid "What's App URL"
+msgstr ""
+
+#: module/rt-post-share.php:40
+msgid "Whatsapp"
+msgstr ""
+
+#: elementor/widgets/woo-product-grid.php:84
+#: elementor/widgets/woo-product-slider.php:145
+msgid "Wishlist Display"
+msgstr ""
+
+#: elementor/widgets/post-grid.php:86 elementor/widgets/rt-gallery.php:104
+#: elementor/widgets/rt-single-gallery.php:108
+#: elementor/widgets/testimonial.php:72
+msgid "Word count"
+msgstr ""
+
+#: widget/rt-working-hours-widget.php:78 widget/rt-working-hours-widget.php:84
+msgid "Working Time:"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:210 elementor/widgets/rt-gallery.php:58
+#: elementor/widgets/rt-trainer.php:61
+#: elementor/widgets/rt-upcomming-class.php:146
+#: elementor/widgets/testimonial.php:81
+#: elementor/widgets/woo-best-deal-product.php:67
+#: elementor/widgets/woo-product-grid.php:55
+#: elementor/widgets/woo-product-slider.php:114
+#: elementor/widgets/woo-single-product.php:65
+msgid "Write -1 to show all"
+msgstr ""
+
+#: elementor/widgets/rt-class.php:217 elementor/widgets/rt-feature-class.php:47
+msgid "Write 1 to show only 1 day schedule"
+msgstr ""
+
+#: elementor/widgets/pricing-switcher.php:207
+msgid "Yearly Title"
+msgstr ""
+
+#: elementor/views/bmi-calculator-2.php:69
+#: elementor/views/bmi-calculator-3.php:58
+#: elementor/views/bmi-calculator.php:53
+msgid "Your BMI is:"
+msgstr ""
+
+#: elementor/widgets/info-box.php:174 elementor/widgets/woo-info-box.php:68
+msgid ""
+"Your logo is the very heart of your identity designers deliver the perfect."
+msgstr ""
+
+#: widget/rt-recent-post-widget.php:10
+msgid "Your site&#8217;s most recent Posts with Image."
+msgstr ""
+
+#: widget/social-widget.php:132 elementor/widgets/contact-info.php:146
+msgid "Youtube URL"
+msgstr ""
+
+#: elementor/widgets/rt-trainer.php:359
+msgid "zoomIn"
+msgstr ""
